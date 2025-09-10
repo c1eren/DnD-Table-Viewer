@@ -3,7 +3,6 @@ Name
 Level
 Range/Area
 School
-Card
 Class
 ;;
 Acid Splash
