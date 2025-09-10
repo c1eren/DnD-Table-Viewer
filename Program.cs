@@ -21,7 +21,8 @@ namespace dotNet1
             string fp_ironGolemLoot = "./res/ironGolemLoot.txt";
 
             FileReader fileReader = new FileReader();
-            Console.Write(fileReader.MakeData(fp_ironGolemLoot));
+            TableManager tableManager = new TableManager();
+            tableManager.AddTable(fileReader.MakeData(fp_example2));
 
         }
         
