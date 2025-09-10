@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,8 +14,10 @@ namespace dotNet1
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>();
+            MainLoop.Init();
+            MainLoop.Start();
 
+            Console.WriteLine("\n\nGoodbye...");
         }
         
     }
