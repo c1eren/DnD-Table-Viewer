@@ -12,7 +12,16 @@ namespace dotNet1
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>();
+            string fp_example2 = "./res/exampleData2.txt";
+            string fp_example3 = "./res/exampleData3.txt";
+            string fp_example4 = "./res/exampleData4.txt";
+            string fp_example5 = "./res/exampleData5.txt";
+            string fp_deities = "./res/deities.txt";
+            string fp_spells = "./res/spells.txt";
+            string fp_ironGolemLoot = "./res/ironGolemLoot.txt";
+
+            FileReader fileReader = new FileReader();
+            Console.Write(fileReader.MakeData(fp_ironGolemLoot));
 
         }
         
