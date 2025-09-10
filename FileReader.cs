@@ -1,13 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.IO;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace dotNet1
 {
-    static internal class FileReader
+    public class FileReader
     {
+        public string MakeData(string filePath)
+        {
+            // Append filePath and newline, then contents
+            return filePath + Environment.NewLine + ReadFile(filePath);
+        }
+
+        private string ReadFile(string filePath)
+        {
+            try
+            {
+                return File.ReadAllText(filePath, Encoding.UTF8);
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine($"ERROR::FILE: {filePath} FILE_NOT_SUCCESSFULLY_READ {e.Message}"); // Proper logging framework not necessary currently
+                return string.Empty;
+            }
+        }
 
     }
 }
