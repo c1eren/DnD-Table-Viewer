@@ -187,11 +187,11 @@ void Table::printOverflowRow(std::size_t &overflowCount, std::vector<std::vector
 				text = (cellOverflow.at(n));
 			else
 				text = ("");
-			
+
 			std::size_t factor = (text.size() < max_line_len) ? (max_line_len - text.size()) : 0;
 			std::string spaces(factor, ' ');
-				std::cout << text << spaces << " | ";
-			}
+			std::cout << text << spaces << " | ";
+		}
 		std::cout << "\n";
 	}
 }

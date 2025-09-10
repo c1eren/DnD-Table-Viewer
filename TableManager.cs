@@ -4,6 +4,8 @@ using System.Data;
 using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
+using System.Xml.Linq;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace dotNet1
 {
@@ -14,6 +16,8 @@ namespace dotNet1
         private static readonly string delimiter = ";;";
 
         private readonly List<Table> tables = new List<Table>();
+        public List<Table> Tables { get { return tables; } }
+
         private string currentTableName = "";
         private string currentTableFilePath = "";
 
@@ -62,7 +66,7 @@ namespace dotNet1
         }
 
         // Table is responsible for printing rows and handling overflows
-        private class Table
+        internal class Table
         {
             private List<List<string>> _tableArray;
 
@@ -75,7 +79,7 @@ namespace dotNet1
 
             public string Name { get; private set; }
 
-            public Table(string name, List<string> headers, List<List<string>> rows)
+            internal Table(string name, List<string> headers, List<List<string>> rows)
             {
                 Name   = name;
                 _headerCount = headers.Count;
@@ -113,6 +117,136 @@ namespace dotNet1
                 string bar = new string('-', barLen);
                 _horizontalBar = "  " + bar; // Double space is purely aesthetic
             }
+
+            public void PrintTable()
+            {
+                Console.WriteLine(Name);
+                PrintHeaders();
+                PrintRows();
+            }
+
+            private void PrintHeaders()
+            {
+
+                Console.Write(_horizontalBar + "\n | ");
+
+                // Iterate and print headers
+                for (int i = 0; i < _headerCount; i++)
+                {
+                    string headerData = _tableArray[0][i];
+
+                    int factor = (headerData.Length <= _maxLineLen) ? (_maxLineLen - headerData.Length) : 0;
+                    string spaces = new string(' ', factor);
+                    Console.Write(headerData + spaces + " | ");
+                }
+
+                Console.WriteLine("\n" + _horizontalBar);
+            }
+            private void PrintRows()
+            {
+                for (int i = 1; i < _rowCount + 1; ++i)
+                {
+                    // Make a temporary printable 2D string vector
+                    List<string> rowData = _tableArray[i];
+                    List<List<string>> variableRow = new List<List<string>>(_headerCount);
+
+                    int overflowCount = 0;
+
+                    Console.Write(" | ");
+
+                    // Copy each string into its respective vector position, and build table cell for overflows
+                    for (int j = 0; j < _headerCount; ++j)
+                    {
+                        variableRow.Add(new List<string>());
+                        if (rowData[j].Length > _maxLineLen)
+                        {
+                            variableRow[j] = GetOverflowRows(_tableArray[i][j]);
+                            if (variableRow[j].Count > overflowCount)
+                                overflowCount = variableRow[j].Count;
+                        }
+                        else
+                            variableRow[j].Add(rowData[j]);
+
+                        string spaces = new string(' ', _maxLineLen - variableRow[j][0].Length);
+                        Console.Write(variableRow[j][0] + spaces + " | ");
+                    }
+                    Console.Write('\n');
+
+                	// For every overflow line
+		            if (overflowCount != 0)
+		            {
+		            	PrintOverflowRow(overflowCount, variableRow);
+                    }
+                    Console.WriteLine(_horizontalBar);
+                }
+            }
+            private List<string> GetOverflowRows(string text)
+            {
+                int textSize = text.Length;
+                List<string> overflows = new List<string>(textSize / _maxLineLen + 1);
+
+                int start = 0;
+                while (start < textSize)
+                {
+                    // Get remaining char in string
+                    int remaining = textSize - start;
+
+                    // If the rest fits on one line push it then break loop
+                    if (remaining <= _maxLineLen)
+                    {
+                        overflows.Add(text.Substring(start));
+                        break;
+                    }
+
+                    int breakPos = 0;
+
+                    int cutoff = Math.Min(start + _maxLineLen, textSize);
+                    breakPos = text.LastIndexOfAny(new char[] { ' ', '-', ')' }, cutoff - 1);
+
+                    if (breakPos != -1 && breakPos > start) // breakPos > start guardrails going behind current pos
+                	{
+                        overflows.Add(text.Substring(start, (breakPos - start) + 1));
+                        start = breakPos + 1;
+                        
+                        while (start < textSize && text[start] == ' ')
+                            ++start; // Skip empty spaces
+                    }
+
+                    else
+                    {
+                        overflows.Add(text.Substring(start, _maxLineLen - 1) + '-');
+                        start += _maxLineLen - 1;
+                    }
+                }
+
+                return overflows;
+            }
+
+            private void PrintOverflowRow(int overflowCount, List<List<string>> variableRow)
+            {
+                for (int i = 1; i < overflowCount; i++) // TODO: fix this 
+                {
+                   Console.Write(" | ");
+
+                    for (int j = 0; j < _headerCount; j++)
+                    {
+                        // If we are printing empty cell
+                        List<string> cellOverflow = variableRow[j];
+                        string text;
+                        if (i < cellOverflow.Count)
+                            text = (cellOverflow[i]);
+                        else
+                            text = ("");
+
+                        int factor = (text.Length < _maxLineLen) ? (_maxLineLen - text.Length) : 0;
+                        string spaces = new string(' ', factor);
+                        Console.Write(text + spaces + " | ");
+                    }
+                    Console.Write('\n');
+                }
+            }
+
+
         }
 
     }

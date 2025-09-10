@@ -23,6 +23,7 @@ namespace dotNet1
             FileReader fileReader = new FileReader();
             TableManager tableManager = new TableManager();
             tableManager.AddTable(fileReader.MakeData(fp_example2));
+            tableManager.Tables[0].PrintTable();
 
         }
         
