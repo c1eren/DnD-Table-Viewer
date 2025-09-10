@@ -120,7 +120,7 @@ namespace dotNet1
 
             public void PrintTable()
             {
-                Console.WriteLine(Name);
+                Console.WriteLine("\n~ " + Name + " ~");
                 PrintHeaders();
                 PrintRows();
             }
