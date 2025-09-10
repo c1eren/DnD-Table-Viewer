@@ -1,0 +1,37 @@
+﻿nainsd
+DC
+Item
+Description
+Value
+Weight
+Exp.
+Crafting
+;;
+15
+Iron Golem Fuel Core
+Embedded in the chest of an iron golem is a burning red rock, resembling a large chuck of hot coal. This hot stone continues to give off heat, long after the golem is destroyed. The core is useful to artificers and other spellcasters.
+50 gp
+10lb.
+2 days
+
+15
+Iron Golem Poison Canister
+Iron golems are built with a canister of toxic chemicals that they use to spew a poisonous vapor. This canister can often be harvested after the creature is destroyed, if it is not punctured or disconnected improperly. The chemicals in the canister can be used by artificers, alchemists and poisoners.
+500 gp
+7lb.
+∞
+Poison Lung (HHH)
+20
+Iron Golem Manual Ashes (vial, small pouch)
+The final step of creating a new golem is to sprinkle the ashes of the manual of golem creation over the inanimate body. Harvesting these ashes can be difficult, as they are tiny and hard to find. The ashes don't retain the power they had prior to the golem's creation, but still have value in the arcane community.
+1500 gp
+1lb.
+∞
+Golem Companion (HHH)
+20
+Iron Golem Iron Scrap
+The iron used to make an iron golem is magically infused and very valuable to expert craftsmen. This magic iron can be reforged to make various weapons and armor.
+2000 gp
+45lb.
+∞
+Plate Armour + 3 (DMG) or Shield + 3 (DMG)

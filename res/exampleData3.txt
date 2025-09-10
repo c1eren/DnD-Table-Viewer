@@ -1,0 +1,127 @@
+Arcana: Magic Items
+Magic Item
+Rarity
+Attune
+Weight
+Value
+;;
+Adamantine Armor
+U
+N
+varies
+500 gp
+Adze of Annam
+A
+Y
+7 lb.
+150,000 gp
+Alchemy Jug
+U
+N
+12 lb.
+6,000 gp
+All or Nothing Coin
+C
+N
+—
+50 gp
+Amethyst Lodestone
+V
+Y
+1 lb.
+120,000 gp
+Ammunition +1
+U
+N
+0.05 lb.
+25 gp
+Ammunition +2
+R
+N
+0.05 lb.
+100 gp
+Ammunition +3
+V
+N
+0.05 lb.
+400 gp
+Amulet of Anti-Hangovers
+C
+N
+1 lb.
+50 gp
+Amulet of Health
+R
+Y
+1 lb.
+8,000 gp
+Amulet of Proof Against Detection and Location
+U
+Y
+1 lb.
+20,000 gp
+Amulet of the Black Skull
+V
+Y
+1 lb.
+80,000 gp
+Amulet of the Planes
+V
+Y
+1 lb.
+160,000 gp
+Animated Shield
+V
+Y
+6 lb.
+6,000 gp
+Apparatus of Kwalish
+L
+Y
+500 lb.
+10,000 gp
+Armor +1
+R
+N
+varies
+1,500 gp
+Armor +2
+V
+N
+varies
+6,000 gp
+Armor +3
+L
+N
+varies
+24,000 gp
+Armor of Gleaming
+C
+N
+varies
+100 gp
+Armor of (Invulnerability)
+L
+Y
+65 lb.
+18,000 gp
+Armor of Resistance
+R
+Y
+varies
+6,000 gp
+Armor of Safeguarding
+V
+Y
+varies
+3,000 gp
+Armor of Vulnerability
+R
+Y
+65 lb.
+—
+Arrow of Slaying
+V
+N
+0.05 lb.
+600 gp

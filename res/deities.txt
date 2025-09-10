@@ -1,0 +1,1619 @@
+Deities - Gods & Demigods
+Name
+Rank
+Align
+Portfolio
+Domain
+Worshipers
+Pantheon
+;;
+Abbathor
+I
+NE
+Greed
+Dwarf, Evil, Luck, Trade
+Dwarves, misers, rogues, shadowdancers
+Dwarven
+Aegir
+I
+NE
+Sea, storms
+Death, Destruction, Evil, Strength, Water
+Sailors, anyone traveling by sea
+Asgardian
+Aerdrie Faenya
+I
+CG
+Air, weather, avians, rain, fertility, avariels
+Air, Animal, Chaos, Elf, Good, Storm
+Bards, druids, elves, rangers, sorcerers, travelers, winged beings
+Elven
+Akadi
+G
+N
+Elemental air, movement, speed, flying creatures
+Air, Illusion, Travel
+Animal breeders, elemental archons (air), rangers, rogues, sailors
+Faerûn
+Al'Akbar
+D
+LG
+Guardianship, faithfulness, dignity, duty
+Community, Good, Law, Protection
+Knights, paladins, guardians, teachers, judges, ministers
+Greyhawk, Baklunish
+Angharradh
+G
+CG
+Spring, fertility, planting, birth, defense, wisdom
+Peace, Chaos, Elf, Good, Plant, Renewal
+Community elders, druids, elves, farmers, fighters, midwives, mothers
+Elven
+Anhur
+L
+CG
+War, conflict, physical prowess, thunder, rain
+Chaos, Good, Strength, Storm, War
+Druids, fighters, monks, rangers, soldiers, warriors
+Mulhorandi
+Annam All-Father
+G
+N
+Giants, creation, learning, philosophy, fertility
+Magic, Plant, Rune, Sun
+Giants
+Giant
+Anubis
+L
+LN
+Judgment, death
+Grave, Law, Magic, Repose
+Guardians, embalmers, necromancers, monks
+Pharaonic
+Apep
+D
+NE
+Evil, fire, serpent
+Evil, Fire, Scalykind
+Reptilian creatures, evil dragons, crazed cultists, rogues
+Pharaonic
+Aphrodite
+I
+CG
+Love, beauty
+Chaos, Charm, Good
+Artists, lovers, bards, elves
+Olympian
+Apollo
+I
+CG
+Light, prophecy, music, healing
+Light, Life, Good, Healing, Magic, Sun
+Bards, elves, wizards, sorcerers, healers, sages, rangers
+Olympian
+Ares
+I
+CE
+War, killing, strife
+Chaos, Destruction, Evil, War
+Fighters, barbarians, half-orcs
+Olympian
+Artemis
+I
+NG
+Hunting, wild beasts, childbirth, dance
+Animal, Good, Plant, Sun
+Rangers, druids, elves, halflings, hunters
+Olympian
+Arvoreen
+I
+LG
+Defense, war, vigilance, halfling warriors, duty, halflings
+Good, Halfling, Law, Protection
+Halflings, fighters, paladins, rangers, soldiers, warriors
+Halfling
+Asmodeus
+G
+LE
+Power, domination, tyranny
+Evil
+Slavers, tyrants, bureaucrats, lawful evil creatures
+Faerûn
+Athena
+G
+LG
+Wisdom, crafts, civilization, war
+Community, Good, Law, War
+Paladins, fighters, monks, rangers, judges, constables
+Olympian
+Auril
+L
+NE
+Cold, winter
+Air, Evil, Storm, Water
+Druids, elemental archons (air or water), frost giants, inhabitants of cold climates, rangers
+Faerûn
+Azuth
+L
+LN
+Wizards, mages, spellcasters, monks
+Arcana, Illusion, Knowledge, Magic, Law, Spell
+Philosophers, sages, sorcerers, wizards
+Faerûn
+Baervan Wildwanderer
+I
+NG
+Travel, nature, forest, gnomes
+Animal, Gnome, Good, Plant, Travel
+Druids, forest gnomes, rangers, rock gnomes, tricksters
+Gnome
+Bahamut
+L
+LG
+Good dragons, wind
+Air, Good, Luck, Protection
+Good dragons, anyone seeking protection from evil dragons
+Dragon
+Bahgtru
+L
+CE
+Loyalty, stupidity, brute strength
+Chaos, Evil, Orc, Strength
+Barbarians, followers, orcs, physically strong beings, warriors, wrestlers
+Orc
+Balder
+I
+NG
+Beauty, light, music, poetry, rebirth
+Good, Healing
+Bards, gnomes
+Asgardian
+Bane
+G
+LE
+Strife, hatred, tyranny, fear
+Order, Evil, Destruction, Hatred, Law, Tyranny, War
+Conquerors, evil fighters, evil monks, tyrants, wizards
+Faerûn
+Baravar Cloakshadow
+L
+NG
+Illusions, deception, traps, wards
+Gnome, Good, Illusion, Protection, Trickery
+Adventurers, deceivers, gnomes, illusionists, rogues, thieves
+Gnome
+Bast
+L
+CG
+Cats, vengeance, protection, punishment
+Chaos, Destruction, Protection, Strength
+Mothers, defenders, fighters, barbarians, rangers, rogues, elves, half-orcs
+Pharaonic
+Beory
+G
+N
+Nature, rain
+Animal, Creation, Earth, Plant, Water, Weather
+Druids, rangers, elves, fairy-folk
+Greyhawk
+Berronar Truesilver
+I
+LG
+Safety, honesty, home, healing, the dwarven family, records, marriage, faithfulness, loyalty, oaths
+Peace, Dwarf, Family, Good, Healing, Law, Protection
+Children, dwarven defenders, dwarves, fighters, homemakers, husbands, parents, scribes, wives
+Dwarven
+Bes
+L
+CN
+Luck, music, protection
+Luck, Protection
+Rogues, gamblers, halflings, gnomes, bards, illusionists
+Pharaonic
+Beshaba
+I
+CE
+Random mischief, misfortune, bad luck, accidents
+Chaos, Evil, Fate, Luck, Trickery
+Assassins, auspicians, capricious individuals, gamblers, rogues, sadists
+Faerûn
+Bhaal
+Q
+NE
+Murder, death
+Death, Destruction, Evil, Retribution
+Assassins, murderers, compulsive killers, serial killers
+Faerûn
+Bleredd
+L
+N
+Labor, craft
+Forge, Light, Craft
+Gnomes, dwarves, humans
+Greyhawk
+Boccob
+G
+N
+Magic, arcane knowledge, foresight, balance
+Arcana, Knowledge, Magic
+Wizards, sorcerers, illusionists, philosophers, sages
+Greyhawk
+Brandorbaris
+L
+N
+Stealth, thievery, adventuring, halfling rogues
+Halfling, Luck, Travel, Trickery
+Adventurers, bards, halflings, risk takers, rogues
+Halfling
+Callarduran Smoothhands
+I
+N
+Stone, the Underdark, mining, the svirfneblin
+Cavern, Craft, Earth, Gnome
+Fighters, gemcutters, hermits, jewelers, illusionists, opponents of drow, svirfneblin
+Gnome
+Celestian
+I
+N
+Stars, space, wanderers
+Knowledge, Twilight, Protection, Travel
+Astronomers, dimensionalists, planeswalkers, seekers, spelljammers, scholars, travelers
+Greyhawk
+Chauntea
+G
+NG
+Agriculture, plants, farmers, gardeners, summer
+Life, Animal, Earth, Good, Plant, Protection, Renewal
+Peasants, indentured servants, druids, farmers, gardeners
+Faerûn
+Clangeddin Silverbeard
+I
+LG
+Battle, war, valor, bravory, honor in battle
+Dwarf, Good, Law, Strength, War
+Barbarians, dwarven defenders, dwarves, fighters, monks, paladins, strategists, tacticians, warriors
+Dwarven
+Corellon Larethian
+G
+CG
+Elves, magic, arts, crafts, music, war, sun elves, poetry, bards, warriors
+Arcana, Chaos, Elf, Good, Magic, Protection
+Elves, half-elves, bards, rangers, archane archers, fighters, warriors, fighters, good leaders, artisans, poets
+Elven
+Cyric
+G
+CE
+Murder, lies, intrigue, deception, illusion
+Chaos, Destruction, Evil, Illusion
+Power-hungry humans (usually young), former worshipers of Bane, Bhaal and Myrkul
+Faerûn
+Cyrrollalee
+I
+LG
+Friendship, trust, the hearth, hospitality, crafts
+Peace, Family, Good, Halfling, Law
+Artisans, cooks, guards, halflings, hosts, innkeepers
+Halfling
+Deep Duerra
+D
+LE
+Psionics, conquest, expansion
+Dwarf, Evil, Law, Mentalism
+Dwarves, fighters, psionicists, travelers in the Underdark
+Dwarven, Duergar
+Deep Sashelas
+I
+CG
+Oceans, sea elves, creation, knowledge
+Chaos, Elf, Good, Ocean, Water
+Druids, elves, fishermen, rangers, sages, sailors
+Elven
+Demeter
+L
+N
+Agriculture
+Life, Earth, Plant, Protection
+Farmers, druids
+Olympian
+Deneir
+L
+NG
+Glyphs, images, literature, scribes, cartography
+Good, Knowledge, Protection, Rune
+Historians, loremasters, sages, scholars, scribes, seekers of enlightenment, students
+Faerûn
+Dennari
+L
+CG
+Earth, liberation, suffering
+Chaos, Earth, Good, Plant
+Dwarves, the oppressed, poor people, farmers, peasants
+Core
+Diancastra
+D
+CG
+Trickery, wit, impudence, pleasure
+Family, Trickery
+Giants
+Giant
+Dionysus
+I
+CN
+Mirth, madness, wine, fertility, theater
+Chaos, Destruction, Madness
+Satyrs, fauns, revelers, rogues, bards
+Olympian
+Dugmaren Brightmantle
+L
+CG
+Scholarship, invention, discovery
+Chaos, Craft, Dwarf, Good, Knowledge, Rune
+Artisans, dwarves, loremasters, runcasters, scholars, tinkers, wizards
+Dwarven
+Dumathoin
+I
+N
+Buried wealth, ores, gems, mining, exploration, shield, dwarves, guardian of the dead
+Cavern, Craft, Dwarf, Earth, Metal, Protection
+Dwarves, gemsmiths, metalsmiths, miners
+Dwarven
+Ehlonna
+I
+NG
+Forests, woodlands, flora and fauna, fertility
+Good, Plant, Sun
+Elves, gnomes, half-elves, halflings, rangers, druids, hunters, farmers, woodcutters
+Greyhawk
+Eilistraee
+L
+CG
+Song, beauty, dance, swordwork, hunting, moonlight
+Chaos, Charm, Drow, Elf, Good, Moon, Portal
+Good-aligned drow, hunters, surface-dwelling elves
+Drow
+Eldath
+L
+NG
+Quiet places, springs, pools, peace, waterfall
+Peace, Nature, Family, Good, Plant, Protection, Water
+Druids, pacifists, rangers
+Faerûn
+Elishar
+I
+NG
+Positive energy, light, prophecy
+Good, Luck, Protection, Sun
+Good and neutral mortals
+Following the Light
+Erbin
+L
+NE
+Vengeance
+Destruction, Evil
+Assassins, fighters, rogues, beggars
+Faerûn
+Erevan Ilesere
+I
+CN
+Mischief, change, rogues
+Chaos, Elf, Luck, Trickery
+Bards, elves, revelers, rogues, sorcerers, tricksters
+Elven
+Erythnul
+I
+CE
+Hate, envy, malice, panic, ugliness, slaughter
+Chaos, Evil, War
+Barbarians, fighters, rogues, looters, outlaws
+Greyhawk
+Fenmarel Mestarine
+L
+CN
+Feral elves, outcasts, scapegoats, isolation
+Animal, Chaos, Elf, Plant
+Druids, elves, outcasts, rangers, rogues, spies, wild elves
+Elven
+Fharlanghn
+I
+N
+Horizons, distance, travel, roads
+Luck, Protection, Travel
+Bards, travelers, merchants
+Greyhawk
+Finder Wyvernspur
+D
+CN
+Cycle of life, transformation of art, saurials
+Chaos, Charm, Renewal, Scalykind
+Artists, bards, saurials
+Faerûn
+Flandal Steelskin
+I
+NG
+Mining, physical fitness, smithing, metalworking
+Craft, Gnome, Good, Metal
+Artisans, fighters, gnomes, miners, smiths
+Gnome
+Forseti
+I
+N
+Justice, law
+Protection, Strength
+Paladins, judges, attorneys, halflings
+Asgardian
+Frey
+G
+NG
+Agriculture, fertility, harvest, sun
+Air, Good, Plant, Sun
+Druids, rangers, farmers, husbands, wives, elves, gnomes, half-elves, halflings
+Asgardian
+Freya
+I
+NG
+Fertility, love, magic, vanity
+Air, Charm, Good, Magic
+Bards, sorcerers, wizards, lovers, husbands, wives, elves, gnomes, half-elves
+Asgardian
+Frigga
+G
+N
+Birth, fertility, love
+Air, Animal, Community
+Druids, lovers, diviners, husbands, wives, halflings
+Asgardian
+Gaerdal Ironhand
+L
+LG
+Vigilance, combat, martial defense
+Peace, Gnome, Good, Law, Protection
+Administrators, fighters, judges, monks, paladins, soldiers, warriors
+Gnome
+Garagos
+D
+CN
+War, skill-at-arms, destruction, plunder
+Chaos, Destruction, Strength
+Barbarians, fighters, warriors, rangers, soldiers, spies
+Faerûn
+Gargauth
+D
+LE
+Betrayal, cruelty, political corruption, powerbrokers
+Charm, Evil, Law
+Corrupt leaders, corrupt politicians, sorcerers, traitors
+Faerûn
+Garl Glittergold
+G
+LG
+Gnomes, humor, trickery, wit, illusion, gem cutting, jewelry making, protection
+Trickery, Craft, Gnome, Good, Law, Protection
+Adventurers, bards, defending soldiers, rogues, gnomes, illusionists, jewelers, gemcutters, smiths, practical jokers
+Gnome
+Geb
+L
+N
+The earth, miners, mines, mineral, resources
+Cavern, Craft, Earth, Protection
+Elemental archons (earth), fighters, miners, smiths
+Mulhorandi
+Ghaunadaur
+L
+CE
+Oozes, slimes, jellies, outcasts, ropers, rebels
+Cavern, Chaos, Drow, Evil, Hatred, Slime
+Aboleths, drow, fighters, oozes, outcasts, ropers
+Drow
+Gond
+I
+N
+Artifice, craft, construction, smithwork
+Forge, Craft, Earth, Fire, Knowledge, Metal, Planning
+Blacksmith, crafters, engineers, gnomes, inventors, lantanese, woodworkers
+Faerûn
+Gorm Gulthyn
+L
+LG
+Guardian of all dwarves, defense, watchfulness
+Dwarf, Good, Law, Protection
+Dwarven defenders, dwarves, fighters
+Dwarven
+Grolantor
+I
+CE
+Hunting, combat, hill giants
+Chaos, Death, Earth, Evil, Hatred
+Hill giants
+Giant
+Grumbar
+G
+N
+Elemental earth, solidity, changelessness, oaths
+Cavern, Earth, Metal, Time
+Elemental archons (earth), fighters, monks, rangers
+Faerûn
+Gruumsh
+G
+CE
+Orcs, conquest, survival, strength, territory
+Cavern, Chaos, Evil, Hatred, Orc, Strength, War
+Fighters, orcs
+Orc
+Gwaeron Windstrom
+D
+NG
+Tracking, rangers of the North
+Animal, Good, Plant, Travel
+Druids, rangers, troll hunters
+Faerûn
+Hades
+G
+NE
+Death, underworld, earth, wealth
+Death, Grave, Earth, Evil
+Necromancers, assassins, rogues, murderers, dwarves
+Olympian
+Haela Brightaxe
+D
+CG
+Luck in battle, joy of battle, dwarven fighters
+Chaos, Dwarf, Good, Luck
+Barbarians, dwarves, fighters
+Dwarven
+Hanali Celanil
+I
+CG
+Love, romance, beauty, enchantment, magic, item artistry, fine art, artists
+Chaos, Charm, Elf, Good, Magic, Protection
+Aesthetes, artists, enchanters, lovers, sorcerers, bards
+Elven
+Hanseath
+L
+CN
+Alcohol, brewing, festivals, song
+Trickery, War
+Brewers, barbarians, berserkers, cooks, drunks, gluttons
+Dwarven
+Hathor
+L
+NG
+Love, music, dance, moon, fate, motherhood
+Life, Community, Family, Fate, Good, Luck, Moon
+Artists, musicians, mothers, lovers, bards, gnomes, halflings
+Pharaonic, Mulhorandi
+Hecate
+I
+NE
+Moon, magic, abundance, undead
+Arcana, Creation, Evil, Magic
+Wizards, sorcerers, assassins, hunters, rogues
+Olympian
+Heimdall
+I
+LG
+Watchfulness, sight, hearing, loyalty
+Good, Law
+Fighters, paladins, sentries, guards, dwarves
+Asgardian
+Heironeous
+I
+LG
+Valor, chivalry, justice, honor, war, daring
+Good, Law, War
+Paladins, fighters, monks, judges, constables
+Greyhawk
+Hel
+I
+NE
+Death, underworld
+Death, Destruction, Evil
+All who fear death
+Asgardian
+Helm
+I
+LN
+Guardians, protectors, protection
+Light, Twilight, Law, Planning, Protection, Strength
+Explorers, fighters, guards, mercenaries, paladins
+Faerûn
+Hephaestus
+I
+NG
+Smithing, crafts
+Forge, Knowledge, Community, Earth, Fire, Good
+Dwarves, gnomes, artisans, fighters
+Olympian
+Hera
+G
+N
+Marriage, women, intrigue
+Community, Nobility, Protection
+Women, wives, spies, planners
+Olympian
+Hercules
+D
+CG
+Strength, adventure
+Chaos, Luck, Strength
+Fighters, athletes
+Olympian
+Hermes
+I
+CG
+Travel, trade, theft, gambling, running
+Chaos, Good, Luck, Travel
+Rogues, illusionists, travelers, merchants, athletes, gnomes
+Olympian
+Hermod
+D
+CN
+Luck, communication, freedom
+Chaos, Luck, Travel
+Bards, messengers, heralds, travelers, elves, halflings, half-elves
+Asgardian
+Hestia
+L
+NG
+Home, hearth, family
+Life, Community, Good, Protection
+Commoners
+Olympian
+Hextor
+I
+LE
+Tyranny, war, discord, massacres, conflict, fitness
+Destruction, Evil, Law, War
+Fighters, monks, conquerors, tyrants
+Greyhawk
+Hiatea
+G
+N
+Nature, agriculture, hunting, females, children
+Animal, Family, Good, Moon, Plant, Sun
+Giants, wood giants, firbolg, voadkyn
+Giant
+Hoar
+D
+LN
+Revenge, retribution, poetic justice
+Fate, Travel
+Assassins, fighters, rogues, seekers of retribution
+Faerûn
+Horus-Re
+G
+LG
+The sun, vengeance, rulership, kings, life
+Good, Law, Nobility, Retribution, Sun
+Administrators, judges, nobles, paladins
+Mulhorandi
+Iallanis
+L
+NG
+Love, forgiveness, beauty, mercy
+Good, Strength, Sun
+Giants
+Giant
+Ilmater
+I
+LG
+Endurance, suffering, martyrdom, perseverance
+Life, Twilight, Good, Law, Strength, Suffering
+The lame, oppressed, poor, monks, paladins, serfs, slaves
+Faerûn
+Ilneval
+L
+NE
+War, combat, overwhelming numbers, strategy
+Destruction, Evil, Orc, Planning, War
+Barbarians, fighters, orcs
+Orc
+Imhotep
+D
+NG
+Crafts, medicine
+Healing, Knowledge
+Scientists, architects, physicians, gnomes
+Pharaonic
+Incabulos
+G
+NE
+Disasters, drought, famine, nightmares, plagues, sickness
+Death
+Cultists, the paranoid, the mad, half-orcs, orcs, hobgoblins, other evil creatures
+Greyhawk
+Isis
+I
+NG
+Weather, rivers, agriculture, love, marriage, good magic
+Arcana, Family, Good, Magic, Storm, Water
+Arcane spellcasters, druids, lovers, mothers
+Pharaonic, Mulhorandi
+Istishia
+G
+N
+Elemental water, purification
+Destruction, Ocean, Storm, Travel, Water
+Bards, elemental archons (water), sailors, travelers
+Faerûn
+Istus
+G
+N
+Fate, destiny, divination, predestination, future, honesty
+Chaos, Fate, Law, Luck
+Cynical, unfeeling people; those interested in metaphysics and divination
+Greyhawk
+Iuz
+D
+CE
+Deceit, evil, oppression, pain, wickedness
+Chaos, Evil, Mind, Suffering, Tyranny
+Bandits, Barbarians, Inhabitants of The Empire of Iuz, orcs
+Greyhawk
+Jergal
+D
+LN
+Fatalism, proper burial, guardian of tombs
+Fate, Law, Repose, Rune, Suffering
+Monks, necromancers, paladins
+Faerûn
+Karontor
+L
+NE
+Deformity, hatred, beasts
+Animal, Cold, Evil, Madness, Strength
+Fomorians, verbeeg
+Giant
+Kelemvor
+G
+LN
+Death, the dead
+Grave, Fate, Law, Protection, Repose, Travel
+The dying, families of the dying, grave diggers, hunters of the undead, morticians, mourners
+Faerûn
+Kiaransalee
+D
+CE
+Undead, vengeance
+Chaos, Drow, Evil, Retribution, Undeath
+Drow, necromancers, undead
+Drow
+Kord
+I
+CG
+Strength, athletics, sports, brawling, courage
+Tempest, Chaos, Good, Luck, Strength
+Barbarians, fighters, rogues, athletes
+Greyhawk
+Kossuth
+G
+N
+Elemental fire, purification through fire
+Destruction, Fire, Renewal, Suffering
+Druids, elemental archons, fire creatures, Thayans
+Faerûn
+Kurtulmak
+I
+LE
+Kobolds, trapmaking, mining, war
+Evil, Law, Luck
+Kobolds
+Core
+Labelas Enoreth
+I
+CG
+Time, longevity, the moment of choice, history
+Chaos, Elf, Good, Time
+Bards, divine disciples, elves, loremasters, scholars, teachers
+Elven
+Laduguer
+I
+LE
+Magic weapon creation, artisan, magic, gray dwarves
+Craft, Dwarf, Evil, Law, Magic, Metal, Protection
+Dwarves, fighters, loremasters, soldiers
+Dwarven, Duergar
+Lathander
+G
+NG
+Athletics, birth, creativity, dawn, renewal, self-perfection, spring, vitality, youth
+Life, Light, Good, Nobility, Protection, Renewal, Strength, Sun
+Aristocrats, artists, athletics, merchants, monks, the young
+Faerûn
+Lendor
+I
+LN
+Time, tedium, patience, study
+Law, Protection
+Sages, village elders, record keepers
+Greyhawk
+Lliira
+L
+CG
+Joy, happiness, dance, festivals, freedom, liberty
+Chaos, Charm, Family, Good, Travel
+Bards, dancers, entertainers, poets, revelers, singers
+Faerûn
+Loki
+G
+CE
+Thieves, trickery, murder
+Trickery, Chaos, Destruction, Evil
+Rogues, assassins
+Asgardian
+Lolth
+I
+CE
+Drow, spiders, evil, darkness, assassins, chaos
+Chaos, Darkness, Destruction, Drow, Evil, Spider
+Drow, depraved elves, sentient spiders
+Drow
+Loviatar
+L
+LE
+Pain, hurt, agony, torment, suffering, torture
+Evil, Law, Retribution, Strength, Suffering
+Beguilers, torturers, evil warriors, the depraved
+Faerûn
+Lurue
+D
+CG
+Talking beasts, intelligent non-humanoid creatures
+Animal, Chaos, Good
+Druids, entertainers, outcasts, rangers, travelers, unicorn riders
+Faerûn
+Luthic
+L
+NE
+Caves, orc females, home, wisdom, fertility, healing, servitude
+Cavern, Earth, Evil, Family
+Monks, orc females, runecasters
+Orc
+Lydia
+L
+NG
+Music, knowledge, daylight
+Good, Knowledge, Sun, Travel
+Musicians, bards, sages, feminists, teachers, midwives
+Greyhawk
+Malar
+L
+CE
+Bloodlust, evil lycanthropes, hunters, marauding beasts and monsters, stalking
+Animal, Chaos, Evil, Moon, Strength
+Hunters, evil lycanthropes, sentient carnivores, rangers, druids
+Faerûn
+Marthammor Duin
+L
+NG
+Guides, explorers, expatriates, travelers, lightning
+Dwarf, Good, Protection, Travel
+Dwarves, fighters, rangers, travelers
+Dwarven
+Mask
+L
+NE
+Shadows, thievery, thieves
+Darkness, Evil, Luck, Trickery
+Assassins, beggars, criminals, rogues, shades, shadowdancers
+Faerûn
+Mayaheine
+D
+LG
+Protection, justice, valor
+Good, Law, Protection
+Paladins, judges, protectors
+Greyhawk
+Memnor
+I
+NE
+Pride, mental prowess, control
+Death, Evil, Mentalism, Rune
+Giants, evil cloud giants
+Giant
+Mielikki
+I
+NG
+Autumn, dryads, forest creatures, forests, rangers
+Animal, Good, Plant, Travel
+Druids, fey, creatures, foresters, rangers
+Faerûn
+Milil
+L
+NG
+Poetry, song, eloquence
+Charm, Good, Nobility
+Adventurers, bards, entertainers
+Faerûn
+Moradin
+G
+LG
+Dwarves, creation, smithing, engineering, metalcraft, stonework, war
+Forge, Knowledge, Craft, Dwarf, Earth, Good, Law, Protection
+Dwarves, metalworkers, dwarven defenders, engineers, fighters, miners, smiths
+Dwarven
+Myrkul
+Q
+NE
+Death, decay, old age, exhaustion, dusk, autumn
+Death
+Evil mages and cultists, necromancers, undertakers, and powerful undead
+Faerûn
+Mystra
+G
+NG
+Magic, spells, the Weave
+Arcana, Good, Illusion, Knowledge, Magic, Rune, Spell
+Elves, half-elves, incantatrixes, mystic wanderers, sorcerers, spelldancers, spellcasters, spellfire channelers, wizards
+Faerûn
+Nephthys
+I
+CG
+Wealth, trade, protector of children, protector of the dead
+Chaos, Good, Protection, Trade
+Merchants, money-changers, tax collectors, rogues
+Mulhorandi, Pharaonic
+Nerull
+G
+NE
+Death, darkness, murder, underworld
+Death, Evil
+Necromancers, assassins, rogues, murderers
+Greyhawk
+Nike
+D
+LN
+Victory
+Law, Nobility, War
+Fighters, athletes, monks
+Olympian
+Njord
+I
+NG
+Commerce, sea, wind
+Air, Good, Water
+Sailors, fishermen, those who depend on the sea for a living
+Asgardian
+Nobanion
+D
+LG
+Royalty, lions, feline beasts, good beasts
+Animal, Good, Law, Nobility
+Druids, fighters, leaders, paladins, rangers, soldiers, teachers, wemics
+Faerûn
+Norebo
+L
+CN
+Gambling, luck, risks
+Luck, Chaos
+Thieves, rogues, gamblers, swindlers, assassins, those that need luck
+Greyhawk
+Obad-hai
+I
+N
+Nature, woodlands, freedom, hunting, beasts
+Nature, Air, Animal, Earth, Fire, Plant, Water
+Barbarians, rangers, druids, hunters
+Greyhawk
+Odin
+G
+NG
+Knowledge, magic, supreme, war
+Air, Knowledge, Magic, Travel
+Bards, fighters, sorcerers, wizards, philosophers, sages, nobility, gnomes
+Asgardian
+Odur
+D
+CG
+Light, sun, travel
+Chaos, Fire, Sun
+Barbarians, druids, rangers, blacksmiths, and those who travel overland
+Asgardian
+Oghma
+G
+N
+Bard, inspiration, invention, knowledge
+Charm, Knowledge, Luck, Travel
+Artists, bards, cartographers, inventors, lore masters, sages, scholars, scribes, wizards
+Faerûn
+Olidammara
+I
+CN
+Rogues, music, revelry, wine, humor, tricks
+Trickery, Chaos, Luck
+Rogues, bards, actors, vintners
+Greyhawk
+Osiris
+I
+LG
+Vegetation, death, the dead, justice, harvest
+Grave, Good, Law, Plant, Repose, Retribution
+Attorneys, druids, embalmers, judges, paladins, rangers, seekers of rightful vengeance
+Mulhorandi, Pharaonic
+Othea
+D
+
+Motherhood, fertility, family
+No domain, dead
+Giants, giant-kin, ogres
+Giant
+Pan
+L
+CN
+Nature, passion, shepherds, mountains
+Nature, Animal, Chaos, Plant
+Fey, satyrs, centaurs, nymphs, shepherds, barbarians, druids
+Olympian
+Pelor
+G
+NG
+Sun, light, strength, healing
+Grave, Life, Good, Healing, Strength, Sun
+Commoners, healers, bards, rangers, druids
+Greyhawk
+Pholtus
+I
+LG
+Light, resolution, law, order, inflexibility, sun, moons
+Light, Law, Order, Sun, Moon
+Arbiters, judges, lawyers, people of the Theocracy of the Pale and Grand Theocracy of Dimre
+Greyhawk
+Poseidon
+G
+CN
+Sea, rivers, earthquakes
+Chaos, Earth, Water
+Sailors, fishers, coast dwellers, druids, fighters
+Olympian
+Procan
+I
+CN
+Seas, sea life, salt, sea weather, navigation
+Water, Weather, Storm, Travel, Luck, Animal, Chaos
+Sailors, fishermen, pirates
+Greyhawk
+Ptah
+I
+LN
+Crafts, knowledge, secrets, travel
+Creation, Knowledge, Law, Travel
+Artists, artisans, travelers, dwarves, monks
+Pharaonic
+Pyremius
+L
+NE
+Assassins, fire, poison, murder
+Destruction, Evil, Fire
+Assassins, pyromaniacs, people of the Scarlet Brotherhood, jermlaine, firenewts, grimlocks.
+Greyhawk
+Ralishaz
+I
+CN
+Chance, ill luck, misfortune, insanity
+Chaos, Destruction, Luck
+Gamblers, the insane, risk-takers, Xaositects, bandits
+Greyhawk
+Rao
+G
+LG
+Peace, reason, serenity
+Peace, Community, Glory, Good, Law, Mind
+Diplomats, advisors, pacifists
+Greyhawk
+Raxivort
+D
+CE
+Xvarts, rats, wererats, bats
+Animal, Chaos, Evil
+Xvarts, wererats, werebats
+Greyhawk
+Re-Horakhty
+G
+LG
+Nobility, sun, supreme, vengeance
+Light, Life, Glory, Good, Law, Nobility, Sun
+Rulers, viziers, fighters, paladins, monks
+Pharaonic
+Red Knight
+D
+LN
+Strategy, planning, tactics
+Law, Nobility, Planning, War
+Fighters, gamesters, monks, strategists, tacticians
+Faerûn
+Rillifane Rallathil
+I
+CG
+Woodlands, nature, wild elves, druids
+Chaos, Elf, Good, Plant, Protection
+Druids, rangers, wild elves
+Elven
+Rudd
+D
+CN
+Chance, good luck, skill
+Luck, Skill
+Gamblers, thieves, cheaters, adventurers
+Greyhawk
+Savras
+D
+LN
+Divination, fate, truth
+Fate, Magic, Spell
+Diviners, judges, monks, seekers of truth, spellcasters
+Faerûn
+Sebek
+D
+NE
+River hazards, crocodiles, werecrocodiles, wetlands
+Animal, Evil, Scalykind, Water
+Druids, inhabitants of crocodile-infested areas, rangers, werecrocodiles
+Mulhorandi
+Segojan Earthcaller
+I
+NG
+Earth, nature, the dead
+Cavern, Earth, Good
+Druids, elemental archons (earth), fighters, gnomes, illusionists, merchants, miners
+Gnome
+Sehanine Moonbow
+I
+CG
+Mysticism, dreams, death, journeys, transcendence, the moon, the stars, the heavens, moon elves
+Chaos, Elf, Good, Illusion, Moon, Travel
+Diviners, elves, half-elves, illusionists, opponents of the undead
+Elven
+Selûne
+I
+CG
+Good lycanthropes, neutral lycanthropes, moon, navigation, questers, stars, wanderers
+Twilight, Chaos, Good, Moon, Protection, Travel
+Female spellcasters, good lycanthropes, neutral lycanthropes, navigators, monks, sailors
+Faerûn
+Selvetarm
+D
+CE
+Drow warriors
+Chaos, Drow, Evil, Spider
+Barbarians, drow, fighters, those who like to kill, warriors
+Drow
+Set
+G
+CE
+Air, darkness, desert storms, drought, evil, hatred, night, scalykind
+Air, Chaos, Darkness, Destruction, Evil, Scalykind, Strength
+Evil creatures, rogues, assassins, blackguards, necromancers
+Mulhorandi, Pharaonic
+Shar
+G
+NE
+Caverns, dark, dungeons, forgetfulness, loss, night, secrets, the Underdark
+Cavern, Darkness, Evil
+Anarchists, assassins, avengers, monks, nihilists, rogues, shadow adepts, shadowdancers
+Faerûn
+Sharess
+D
+CG
+Hedonism, sensual fulfillment, festhalls, cats
+Chaos, Charm, Good, Travel
+Bards, hedonists, sensualists
+Faerûn
+Shargaas
+L
+CE
+Night, thieves, stealth, darkness, the Underdark
+Chaos, Darkness, Evil, Orc
+Orcs, assassins, thieves
+Orc
+Sharindlar
+I
+CG
+Healing, mercy, romantic love, fertility, dancing, courtship, the moon
+Chaos, Charm, Dwarf, Good, Healing, Moon
+Bards, dancers, dwarves, healers, lovers
+Dwarven
+Shaundakul
+L
+CN
+Travel, exploration, portals, miners, caravans
+Air, Chaos, Portal, Protection, Trade, Travel
+Explorers, caravaneers, rangers, portal-walkers, planewalkers, half-elves
+Faerûn
+Sheela Peryroyl
+I
+N
+Nature, agriculture, weather, song, dance, beauty, romantic love
+Air, Charm, Halfling, Plant
+Bards, druids, farmers, gardeners, halflings, rangers
+Halfling
+Shevarash
+D
+CN
+Hatred of the drow, vengeance, crusades, loss, arcane archers, archers, elves, fighters, hunters, rangers, soldiers, sorcerers
+Chaos, Elf, Retribution
+Arcane archers, archers, elves, fighters, hunters, rangers, soldiers, sorcerers
+Elven
+Shiallia
+D
+NG
+Woodland glades, woodland fertility, growth, the High Forest, Neverwinter Wood
+Animal, Good, Plant, Renewal
+Druids, farmers, foresters, gardeners, nuptial, couples
+Faerûn
+Siamorphe
+D
+LN
+Nobles rightful rule of nobility, human royalty
+Law, Nobility, Planning
+Leaders, loremasters, nobles, those with inherited wealth or status
+Faerûn
+Sif
+L
+CG
+War, dueling
+Chaos, Good
+Barbarians, fighters, paladins, rangers, combat instructors
+Asgardian
+Silvanus
+G
+N
+Wild nature, druids
+Nature, Animal, Plant, Protection, Renewal, Water
+Druids, woodsmen, wood elves
+Faerûn
+Skadi
+L
+N
+Earth, mountains
+Destruction, Earth, Strength
+Barbarians, druids, rangers, dwarves, halflings
+Asgardian
+Skoraeus Stonebones
+I
+N
+Stone giants, earth, buried things
+Cavern, Earth, Protection, Temperance
+Stone giants
+Giant
+Sobek
+D
+LE
+Water, river hazards, crocodiles, wetlands
+Animal, Evil, Water
+Sailors, reptilian creatures, assassins, monks
+Pharaonic
+Solonor Thelandira
+I
+CG
+Archery, hunting, wilderness, survival
+Chaos, Elf, Good, Plant
+Arcane archers, archers, druids, elves, rangers
+Elven
+St. Cuthbert
+I
+LN
+Retribution, common sense, wisdom, zeal, honesty, truth, discipline
+Destruction, Law, Protection, Strength
+Fighters, monks, judges, constables
+Greyhawk
+Stronmaus
+G
+NG
+Sun, sky, weather, seas, joy
+Air, Good, Protection, Sun, Weather, Sky
+Cloud giants, storm giants
+Giant
+Sune
+G
+CG
+Beauty, love, passion
+Chaos, Charm, Good, Protection
+Lovers, artists, half-elves, adventurers, bards
+Faerûn
+Surtr
+I
+LE
+Fire, war
+Evil, Fire, Law, Strength
+Fire giants, giants
+Giant, Asgardian
+Taiia
+G
+N
+Creation, life
+Air, Chaos, Earth, Good, Law, Magic, Protection, Sun
+All, everyone
+Faith of the Sun
+Talona
+L
+CE
+Disease, poison
+Chaos, Destruction, Evil, Suffering
+Assassins, druids, healers, rogues, those suffering from disease and illness
+Faerûn
+Talos
+G
+CE
+Storms, destruction, rebellion, conflagration, earthquakes, vortices
+Tempest, Chaos, Destruction, Evil, Fire, Storm
+Those who fear the destructive power of nature, barbarians, fighters, druids, half-orcs
+Faerûn
+Telchur
+L
+CN
+Winter, cold, the north wind
+Air, Chaos, Storm, Strength
+Barbarians, farmers
+Greyhawk
+Tempus
+G
+N
+War, battle, warriors
+Chaos, Protection, Strength, War
+Warriors, fighters, barbarians, gladiators, rangers, half-orcs
+Faerûn
+Thard Harr
+L
+CG
+Wild dwarves, jungle survival, hunting
+Animal, Chaos, Dwarf, Good, Plant
+Druids, inhabitants of jungles, rangers, wild dwarves
+Dwarven
+Tharizdun
+I
+NE
+Insanity, entropy
+Chaos, Destruction, Evil, Madness
+Evil madmen, psychopaths, destructors
+Greyhawk
+Thor
+G
+CG
+Storms, thunder, war
+Tempest, Chaos, Good, Protection, Strength
+Barbarians, fighters, paladins, rangers, farmers, dwarves, half-orcs
+Asgardian
+Thoth
+I
+N
+Neutral magic, scribes, knowledge, learning, invention, secrets, wisdom
+Knowledge, Magic, Rune, Spell
+Loremasters, scribes, those who craft magic items, scholars, sages, wizards, sorcerers, bards, gnomes
+Mulhorandi, Pharaonic
+Thrym
+L
+CE
+Frost giants, strength, cold, ice, war
+Chaos, Cold, Destruction, Earth, Evil, Strength
+Frost giants
+Giant, Asgardian
+Tiamat
+L
+LE
+Evil dragons, evil reptiles, greed, conquest
+Destruction, Evil, Law, Tyranny, Scalykind
+Evil dragons, chromatic dragons, Cult of the Dragon, evil reptiles, fighters, sorcerers, thieves, vandals, conquerors
+Faerûn
+Toldoth
+I
+NE
+Negative energy, darkness, destruction
+Death, Destruction, Evil, Strength
+Undead, evil and neutral mortals, monsters
+Following the Light
+Torm
+L
+LG
+Duty, loyalty, honor, obedience, paladins
+Good, Law, Protection, Strength, War
+Paladins, heroes, good fighters, good warriors, guardians, knights, loyal courtiers
+Faerûn
+Trithereon
+I
+CG
+Individuality, liberty, retribution, self-defense
+Chaos, Good, Protection, Strength
+The oppressed, enslaved, rebels, peasants
+Greyhawk
+Tyche
+L
+N
+Luck
+Luck, Protection, Travel
+Those wishing luck, halflings, rogues
+Olympian
+Tymora
+I
+CG
+Good fortune, skill, victory, adventurers
+Trickery, Chaos, Good, Luck, Protection, Travel
+Rogues, gamblers, adventurers, Harpers, lightfoot halflings
+Faerûn
+Tyr
+I
+LN
+Courage, trust, strategy, tactics, writing
+Law, Protection
+Fighters, monks, paladins, rangers, sages, dwarves
+Asgardian
+Tyr
+G
+LG
+Justice
+Order, Good, Law, Retribution
+Paladins, judges, magistrates, lawyers, police, the oppressed
+Faerûn
+Ubtao
+G
+N
+Creation, jungles, Chult, the Chultans, dinosaurs
+Planning, Plant, Protection, Scalykind
+Adepts, chultans, druids, inhabitants of jungles, rangers
+Faerûn
+Ulaa
+I
+LG
+Hills, mountains, gemstones
+Earth, Good, Law
+Miners, mountain dwellers, hill dwellers, dwarves, gnomes,
+Greyhawk
+Uller
+L
+CN
+Archers, hunting, winter
+Chaos, Protection, Travel
+Barbarians, druids, rangers, archers, elves, halflings, half-elves, half-orcs
+Asgardian
+Ulutiu
+D
+LN
+Glaciers, polar environments, arctic dwellers
+Animal, Law, Ocean, Protection, Strength
+Arctic dwellers, druids, historians, leaders, teachers, rangers
+Faerûn
+Umberlee
+I
+CE
+Oceans, currents, waves, sea winds
+Tempest, Chaos, Destruction, Evil, Ocean, Storm, Water
+Sailors, weresharks, sentient sea creatures, coastal dwellers
+Faerûn
+Urdlen
+I
+CE
+Greed, bloodlust, evil, hatred, uncontrolled impulse, spriggans
+Chaos, Earth, Evil, Gnome, Hatred
+Assassins, blackguards, gnomes, rogues, spriggans
+Gnome
+Urogalan
+D
+LN
+Earth, death, protection from the dead
+Earth, Halfling, Law, Protection, Repose
+Genealogists, grave differs, halflings
+Halfling
+Uthgar
+L
+CN
+Uthgardt barbarian tribes, physical strength
+Animal, Chaos, Retribution, Strength
+The Uthgardt tribes, barbarians
+Faerûn
+Valkur
+D
+CG
+Sailors, ships, favorable winds, naval combat
+Air, Chaos, Good, Ocean, Protection
+Fighters, rogues, sailors
+Faerûn
+Vatun
+L
+CN
+Northern barbarians, cold, winter, arctic beasts
+Air, Animal, Chaos, Storm, Strength
+Northern barbarians
+Greyhawk
+Vecna
+L
+NE
+Secrets, intrigue
+Arcana, Death, Evil, Knowledge, Magic
+Wizards, sorcerers, conspirators
+Greyhawk
+Velsharoon
+D
+NE
+Necromancy, necromancers, liches, undeath
+Magic, Undeath
+Liches, necromancers, seekers of immortality through undeath, Cult of the Dragon
+Faerûn
+Vergadain
+I
+N
+Wealth, luck, chance, nonevil, thieves, suspicion, trickery, negotiation, sly cleverness
+Dwarf, Luck, Trade
+Dwarves, merchants, traders, rogues, wealthy individuals, rich
+Dwarven
+Vhaeraun
+L
+CE
+Thievery, drow males, evil activity on the surface
+Chaos, Drow, Evil, Travel
+Assassins, male drow, half-drow, poisoners, shadowdancers, rogues, thieves
+Drow
+Wastri
+D
+LE
+Amphibians, bigotry, self-deception
+Animal, Law
+Racist humans, bullywugs, grung and other evil amphibious creatures
+Greyhawk
+Waukeen
+L
+N
+Trade, money, wealth
+Balance, Envy, Pride, Protection, Sloth, Travel, Trade
+Shopkeepers, merchants, guides, peddlers, moneychangers, smugglers
+Faerûn
+Wee Jas
+I
+LN
+Death, magic, vanity, law
+Arcana, Grave, Death, Order, Law, Magic
+Necromancers, wizards
+Greyhawk
+Xan Yae
+L
+N
+Twilight, shadows, stealth, mastery of mind over matter
+Twilight
+Monks, martial artists, rogues, thieves, young lovers
+Greyhawk
+Xerbo
+L
+N
+Sea, sailing, money, business
+Animal, Water
+Sailors, merchants, coastal inhabitants, druids
+Greyhawk
+Yondalla
+G
+LG
+Protection, bounty, halflings, children, security, leadership, wisdom, creation, family, tradition
+Twilight, Family, Good, Halfling, Law, Protection
+Children, halflings, leaders, paladins, parents
+Halfling
+Yurtrus
+L
+NE
+Death, disease
+Death, Destruction, Evil, Orc, Suffering
+Assassins, monks, orcs
+Orc
+Zagyg
+D
+CN
+Humor, eccentricity, occult lore, unpredictability
+Chaos, Magic, Rune, Spell
+Wizards, mages, eccentric spellcasters
+Greyhawk
+Zeus
+G
+CG
+Sky, air, storms, fate, nobility
+Air, Tempest, Chaos, Good, Nobility, Strength
+Everyone, barbarians, rangers
+Olympian
+Zilchus
+I
+LN
+Power, prestige, money, business, influence
+Law, Mind
+Merchants, traders, business owners, money changers, politicians, diplomats, nobles
+Greyhawk
+Zuoken
+D
+N
+Monks, mental powers, physical and mental mastery
+Mind, Strength
+Monks, martial artists, rogues, thieves, young lovers
+Greyhawk

@@ -1,0 +1,37 @@
+﻿Harvesting & Loot: Aartuk Warrior
+DC
+Item
+Description
+Value
+Weight
+Exp.
+Crafting
+;;
+10
+Aartuk Sap (3 vials)
+Aartuk sap is an extremely thick, reddish brown fluid that smells of fresh cut grass. Adept farmers can use the sap to create a rich fertilizer.
+5 sp
+1lb.
+14 days
+-
+15
+Aartuk Bark
+Aartuk bark is the hard, outer covering of the creature. The bark can be removed in small plates, which can then be crafted into wooden armor.
+1 gp
+15lb.
+∞
+Breastplate (Wooden)
+20
+Aartuk Tongue
+An aartuk's tongue is a long, rough, spongy slab of flesh. The tongue can be dried out, stretched, treated and used to make rope or whips.
+2 gp
+4lb.
+2 days
+Whip (PHB)
+10
+Aartuk Sap (3 vials)
+Aartuk sap is an extremelyEXTRATEXT thick, reddish brown fluid that smells of fresh cut grass. Adept farmers can use the sap to create a rich fertilizer.
+Aartuk sap is an extremely thick, reddish brown fluid that smells of fresh cut grass. Adept farmers can use the sap to create a rich fertilizer.
+1lb.
+14 days
+Aartuk sap is an extremely thick, reddish brown fluid that smells of fresh cut grass. Adept farmers can use the sap to create a rich fertilizer.

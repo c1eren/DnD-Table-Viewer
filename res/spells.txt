@@ -1,0 +1,4628 @@
+Spells & Rituals
+Name
+Level
+Range/Area
+School
+Card
+Class
+;;
+Acid Splash
+0
+60 ft
+Conjuration
+Sor, Wiz, Rog, Art
+Acid Splash
+0
+60 ft (200 ft )
+Evocation
+Sor, Wiz, Rog, Art
+Blade Ward
+0
+Self
+Abjuration
+Bar, Sor, War, Wiz, Rog
+Blade Ward
+0
+Self
+Abjuration
+Bar, Sor, War, Wiz, Rog
+Booming Blade
+0
+5 ft
+Evocation
+Sor, War, Wiz, Rog, Art
+Chill Touch
+0
+120 ft
+Necromancy
+Sor, War, Wiz, Rog
+Chill Touch
+0
+Touch
+Necromancy
+Sor, War, Wiz, Rog
+Control Flames
+0
+60 ft (*)
+Transmutation
+Dru, Sor, Wiz, Rog
+Create Bonfire
+0
+60 ft (5 ft )
+Conjuration
+Dru, Sor, War, Wiz, Rog, Art
+Dancing Lights
+0
+120 ft
+Evocation
+Bar, Sor, Wiz, Rog, Art
+Dancing Lights
+0
+120 ft
+Illusion
+Bar, Sor, Wiz, Rog, Art
+Druidcraft
+0
+30 ft
+Transmutation
+Dru
+Druidcraft
+0
+30 ft
+Transmutation
+Dru
+Eldritch Blast
+0
+120 ft
+Evocation
+War
+Eldritch Blast
+0
+120 ft
+Evocation
+War
+Elementalism
+0
+30 ft
+Transmutation
+Dru, Sor, Wiz, Rog
+Encode Thoughts
+0
+Self
+Enchantment
+Sor, War, Wiz, Rog
+Fire Bolt
+0
+120 ft
+Evocation
+Sor, Wiz, Rog, Art
+Fire Bolt
+0
+120 ft
+Evocation
+Sor, Wiz, Rog, Art
+Friends
+0
+Self
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Friends
+0
+10 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Frostbite
+0
+60 ft
+Evocation
+Dru, Sor, War, Wiz, Rog, Art
+Green-Flame Blade
+0
+5 ft
+Evocation
+Sor, War, Wiz, Rog, Art
+Guidance
+0
+Touch
+Divination
+Cler, Dru, Art
+Guidance
+0
+Touch
+Divination
+Cler, Dru, Art
+Gust
+0
+30 ft
+Transmutation
+Dru, Sor, Wiz, Rog
+Hand of Radiance
+0
+5 ft
+Evocation
+Cler
+Infestation
+0
+30 ft
+Conjuration
+Dru, Sor, War, Wiz, Rog
+Light
+0
+Touch (20 ft *)
+Evocation
+Bar, Cler, Sor, Wiz, Rog, Art
+Light
+0
+Touch
+Evocation
+Bar, Cler, Sor, Wiz, Rog, Art
+Lightning Lure
+0
+15 ft
+Evocation
+Sor, War, Wiz, Rog, Art
+Mage Hand
+0
+30 ft
+Conjuration
+Bar, Sor, War, Wiz, Rog, Art
+Mage Hand
+0
+30 ft
+Conjuration
+Bar, Sor, War, Wiz, Rog, Art
+Magic Stone
+0
+Touch
+Transmutation
+Dru, War, Art
+Mending
+0
+Touch
+Transmutation
+Bar, Cler, Dru, Sor, Wiz, Rog, Art
+Mending
+0
+Touch
+Transmutation
+Bar, Cler, Dru, Sor, Wiz, Rog, Art
+Message
+0
+120 ft
+Transmutation
+Bar, Sor, Wiz, Rog, Art
+Message
+0
+120 ft
+Transmutation
+Bar, Sor, Wiz, Rog, Art
+Mind Sliver
+0
+60 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Mind Sliver
+0
+60 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Minor Illusion
+0
+30 ft (5 ft *)
+Illusion
+Bar, Sor, War, Wiz, Rog
+Minor Illusion
+0
+30 ft (5 ft *)
+Illusion
+Bar, Sor, War, Wiz, Rog
+Mold Earth
+0
+30 ft (5 ft )
+Transmutation
+Dru, Sor, Wiz, Rog
+Poison Spray
+0
+10 ft
+Conjuration
+Dru, Sor, War, Wiz, Rog, Art
+Poison Spray
+0
+30 ft
+Necromancy
+Dru, Sor, War, Wiz, Rog, Art
+Prestidigitation
+0
+10 ft
+Transmutation
+Bar, Sor, War, Wiz, Rog, Art
+Prestidigitation
+0
+10 ft
+Transmutation
+Bar, Sor, War, Wiz, Rog, Art
+Primal Savagery
+0
+Self
+Transmutation
+Dru
+Produce Flame
+0
+Self
+Conjuration
+Dru
+Produce Flame
+0
+Self
+Conjuration
+Dru
+Ray of Frost
+0
+60 ft
+Evocation
+Sor, Wiz, Rog, Art
+Ray of Frost
+0
+60 ft
+Evocation
+Sor, Wiz, Rog, Art
+Resistance
+0
+Touch
+Abjuration
+Cler, Dru, Art
+Resistance
+0
+Touch
+Abjuration
+Cler, Dru, Art
+Sacred Flame
+0
+60 ft
+Evocation
+Cler
+Sacred Flame
+0
+60 ft
+Evocation
+Cler
+Sapping Sting
+0
+30 ft
+Necromancy
+Wiz
+Shape Water
+0
+30 ft (5 ft )
+Transmutation
+Dru, Sor, Wiz, Rog
+Shillelagh
+0
+Touch
+Transmutation
+Dru
+Shillelagh
+0
+Self
+Transmutation
+Dru
+Shocking Grasp
+0
+Touch
+Evocation
+Sor, Wiz, Rog, Art
+Shocking Grasp
+0
+Touch
+Evocation
+Sor, Wiz, Rog, Art
+Sorcerous Burst
+0
+120 ft
+Evocation
+Sor
+Spare the Dying
+0
+Touch
+Necromancy
+Cler, Art
+Spare the Dying
+0
+15 ft
+Necromancy
+Cler, Dru, Art
+Starry Wisp
+0
+60 ft
+Evocation
+Bar, Dru
+Sword Burst
+0
+5 ft
+Conjuration
+Sor, War, Wiz, Rog, Art
+Thaumaturgy
+0
+30 ft
+Transmutation
+Cler
+Thaumaturgy
+0
+30 ft
+Transmutation
+Cler
+Thorn Whip
+0
+30 ft
+Transmutation
+Dru, Art
+Thorn Whip
+0
+30 ft
+Transmutation
+Dru, Art
+Thunderclap
+0
+Self (5 ft )
+Evocation
+Bar, Dru, Sor, War, Wiz, Rog, Art
+Thunderclap
+0
+Self (5 ft )
+Evocation
+Bar, Dru, Sor, War, Wiz, Rog, Art
+Toll The Dead
+0
+60 ft
+Necromancy
+Cler, War, Wiz, Rog
+Toll The Dead
+0
+60 ft
+Necromancy
+Cler, War, Wiz, Rog
+True Strike
+0
+30 ft
+Divination
+Bar, Sor, War, Wiz, Rog
+True Strike
+0
+Self
+Divination
+Bar, Sor, War, Wiz, Rog
+Vicious Mockery
+0
+60 ft
+Enchantment
+Bar
+Vicious Mockery
+0
+60 ft
+Enchantment
+Bar
+Virtue
+0
+Touch
+Abjuration
+Cler
+Word of Radiance
+0
+5 ft
+Evocation
+Cler
+Word of Radiance
+0
+Self (5 ft )
+Evocation
+Cler
+Absorb Elements
+1
+Self
+Abjuration
+Dru, Ran, Sor, Wiz, Rog, Art
+Alarm
+1
+30 ft
+Abjuration
+Ran, Wiz, Rog, Art
+Alarm
+1
+30 ft (20 ft )
+Abjuration
+Ran, Wiz, Art
+Animal Friendship
+1
+30 ft
+Enchantment
+Bar, Dru, Ran, Rog
+Animal Friendship
+1
+30 ft
+Enchantment
+Bar, Dru, Ran
+Armor of Agathys
+1
+Self
+Abjuration
+War
+Armor of Agathys
+1
+Self
+Abjuration
+War
+Arms of Hadar
+1
+Self (10 ft )
+Conjuration
+War
+Arms of Hadar
+1
+Self (10 ft )
+Conjuration
+War
+Bane
+1
+30 ft
+Enchantment
+Bar, Cler
+Bane
+1
+30 ft
+Enchantment
+Bar, Cler, War
+Beast Bond
+1
+Touch
+Divination
+Dru, Ran
+Bless
+1
+30 ft
+Enchantment
+Cler, Pal
+Bless
+1
+30 ft
+Enchantment
+Cler, Pal
+Burning Hands
+1
+Self (15 ft )
+Evocation
+Sor, Wiz, Rog
+Burning Hands
+1
+Self (15 ft )
+Evocation
+Sor, Wiz, Rog
+Catapult
+1
+150 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Cause Fear
+1
+60 ft
+Necromancy
+War, Wiz, Rog
+Ceremony
+1
+Touch
+Abjuration
+Cler, Pal
+Chaos Bolt
+1
+120 ft
+Evocation
+Sor
+Charm Person
+1
+30 ft
+Enchantment
+Bar, Dru, Sor, War, Wiz, Rog
+Charm Person
+1
+30 ft
+Enchantment
+Bar, Dru, Sor, War, Wiz, Rog
+Chromatic Orb
+1
+90 ft
+Evocation
+Sor, Wiz, Rog
+Chromatic Orb
+1
+90 ft
+Evocation
+Sor, Wiz, Rog
+Color Spray
+1
+Self (15 ft )
+Illusion
+Sor, Wiz, Rog
+Color Spray
+1
+Self (15 ft )
+Illusion
+Bar, Sor, Wiz, Rog
+Command
+1
+60 ft
+Enchantment
+Cler, Pal
+Command
+1
+60 ft
+Enchantment
+Bar, Cler, Pal
+Compelled Duel
+1
+30 ft
+Enchantment
+Pal
+Compelled Duel
+1
+30 ft
+Enchantment
+Pal
+Comprehend Languages
+1
+Self
+Divination
+Bar, Sor, War, Wiz, Rog
+Comprehend Languages
+1
+Self
+Divination
+Bar, Sor, War, Wiz, Rog
+Create or Destroy Water
+1
+30 ft (30 ft )
+Transmutation
+Cler, Dru
+Create or Destroy Water
+1
+30 ft (30 ft )
+Transmutation
+Cler, Dru
+Cure Wounds
+1
+Touch
+Evocation
+Bar, Cler, Dru, Pal, Ran, Art
+Cure Wounds
+1
+Touch
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Art
+Detect Evil and Good
+1
+Self (30 ft )
+Divination
+Cler, Pal
+Detect Evil and Good
+1
+Self (30 ft )
+Divination
+Cler, Pal
+Detect Magic
+1
+Self (30 ft )
+Divination
+Bar, Cler, Dru, Pal, Ran, Sor, Wiz, Rog, Art
+Detect Magic
+1
+Self (30 ft )
+Divination
+Bar, Cler, Dru, Pal, Ran, Sor, War, Wiz, Rog, Art
+Detect Poison and Disease
+1
+Self (30 ft )
+Divination
+Cler, Dru, Pal, Ran
+Detect Poison and Disease
+1
+Self (30 ft )
+Divination
+Cler, Dru, Pal, Ran
+Disguise Self
+1
+Self
+Illusion
+Bar, Sor, Wiz, Rog, Art
+Disguise Self
+1
+Self
+Illusion
+Bar, Sor, Wiz, Rog, Art
+Dissonant Whispers
+1
+60 ft
+Enchantment
+Bar
+Dissonant Whispers
+1
+60 ft
+Enchantment
+Bar
+Distort Value
+1
+Touch (1 ft )
+Illusion
+Bar, Sor, War, Wiz, Rog
+Divine Favor
+1
+Self
+Evocation
+Pal
+Divine Favor
+1
+Self
+Transmutation
+Pal
+Divine Smite
+1
+Self
+Evocation
+Pal
+Earth Tremor
+1
+Self (10 ft )
+Evocation
+Bar, Dru, Sor, Wiz, Rog
+Ensnaring Strike
+1
+Self
+Conjuration
+Ran
+Ensnaring Strike
+1
+Self
+Conjuration
+Ran
+Entangle
+1
+90 ft (20 ft )
+Conjuration
+Dru
+Entangle
+1
+90 ft (20 ft )
+Conjuration
+Dru, Ran
+Expeditious Retreat
+1
+Self
+Transmutation
+Sor, War, Wiz, Rog, Art
+Expeditious Retreat
+1
+Self
+Transmutation
+Sor, War, Wiz, Rog, Art
+Faerie Fire
+1
+60 ft (20 ft )
+Evocation
+Bar, Dru, Art
+Faerie Fire
+1
+60 ft (20 ft )
+Evocation
+Bar, Dru, Art
+False Life
+1
+Self
+Necromancy
+Sor, Wiz, Rog, Art
+False Life
+1
+Self
+Necromancy
+Sor, Wiz, Rog, Art
+Feather Fall
+1
+60 ft
+Transmutation
+Bar, Sor, Wiz, Rog, Art
+Feather Fall
+1
+60 ft
+Transmutation
+Bar, Sor, Wiz, Rog, Art
+Find Familiar
+1
+10 ft
+Conjuration
+Wiz, Rog
+Find Familiar
+1
+10 ft
+Conjuration
+Wiz, Rog
+Fog Cloud
+1
+120 ft (20 ft )
+Conjuration
+Dru, Ran, Sor, Wiz, Rog
+Fog Cloud
+1
+120 ft (20 ft )
+Conjuration
+Dru, Ran, Sor, Wiz, Rog
+Frost Fingers
+1
+Self (15-foot )
+Evocation
+Wiz
+Gift of Alacrity
+1
+Touch
+Divination
+Wiz
+Goodberry
+1
+Touch
+Transmutation
+Dru, Ran
+Goodberry
+1
+Self
+Conjuration
+Dru, Ran
+Grease
+1
+60 ft (10 ft )
+Conjuration
+Wiz, Rog, Art
+Grease
+1
+60 ft (10 ft )
+Conjuration
+Sor, Wiz, Rog, Art
+Guiding Bolt
+1
+120 ft
+Evocation
+Cler
+Guiding Bolt
+1
+120 ft
+Evocation
+Cler
+Guiding Hand
+1
+5 ft
+Divination
+Bar, Cler, Dru, Wiz, Rog
+Hail of Thorns
+1
+Self
+Conjuration
+Ran
+Hail of Thorns
+1
+Self
+Conjuration
+Ran
+Healing Elixir
+1
+Self
+Conjuration
+War, Wiz, Rog
+Healing Word
+1
+60 ft
+Evocation
+Bar, Cler, Dru
+Healing Word
+1
+60 ft
+Abjuration
+Bar, Cler, Dru
+Hellish Rebuke
+1
+60 ft
+Evocation
+War
+Hellish Rebuke
+1
+60 ft
+Evocation
+War
+Heroism
+1
+Touch
+Enchantment
+Bar, Pal
+Heroism
+1
+Touch
+Enchantment
+Bar, Pal
+Hex
+1
+90 ft
+Enchantment
+War
+Hex
+1
+90 ft
+Enchantment
+War
+Hunter's Mark
+1
+90 ft
+Divination
+Ran
+Hunter's Mark
+1
+90 ft
+Divination
+Ran
+Ice Knife
+1
+60 ft (5 ft *)
+Conjuration
+Dru, Sor, Wiz, Rog
+Ice Knife
+1
+60 ft (5 ft *)
+Conjuration
+Dru, Sor, Wiz, Rog
+Id Insinuation
+1
+60 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Identify
+1
+Touch
+Divination
+Bar, Wiz, Rog, Art
+Identify
+1
+Touch
+Divination
+Bar, Wiz, Rog, Art
+Illusory Script
+1
+Touch
+Illusion
+Bar, War, Wiz, Rog
+Illusory Script
+1
+Touch
+Illusion
+Bar, War, Wiz, Rog
+Inflict Wounds
+1
+Touch
+Necromancy
+Cler
+Inflict Wounds
+1
+Touch
+Necromancy
+Cler
+Jim's Magic Missile
+1
+120 ft
+Evocation
+Wiz, Rog
+Jump
+1
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Jump
+1
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Longstrider
+1
+Touch
+Transmutation
+Bar, Dru, Ran, Wiz, Rog, Art
+Longstrider
+1
+Touch
+Transmutation
+Bar, Dru, Ran, Wiz, Rog, Art
+Mage Armor
+1
+Touch
+Abjuration
+Sor, Wiz, Rog
+Mage Armor
+1
+Touch
+Abjuration
+Sor, Wiz, Rog
+Magic Missile
+1
+120 ft
+Evocation
+Sor, Wiz, Rog
+Magic Missile
+1
+120 ft
+Evocation
+Sor, Wiz, Rog
+Magnify Gravity
+1
+60 ft
+Transmutation
+Wiz
+Protection from Evil and Good
+1
+Touch
+Abjuration
+Cler, Pal, War, Wiz, Rog
+Protection from Evil and Good
+1
+Touch
+Abjuration
+Cler, Dru, Pal, War, Wiz, Rog
+Puppet
+1
+120 ft
+Enchantment
+Bar, War, Wiz, Rog
+Purify Food and Drink
+1
+10 ft (5 ft )
+Transmutation
+Cler, Dru, Pal, Art
+Purify Food and Drink
+1
+10 ft (5 ft )
+Transmutation
+Cler, Dru, Pal, Art
+Ray of Sickness
+1
+60 ft
+Necromancy
+Sor, Wiz, Rog
+Ray of Sickness
+1
+60 ft
+Necromancy
+Sor, Wiz, Rog
+Sanctuary
+1
+30 ft
+Abjuration
+Cler, Art
+Sanctuary
+1
+30 ft
+Abjuration
+Cler, Art
+Searing Smite
+1
+Self
+Evocation
+Pal
+Searing Smite
+1
+Self
+Evocation
+Pal
+Sense Emotion
+1
+Self
+Divination
+Bar, War, Wiz, Rog
+Shield
+1
+Self
+Abjuration
+Sor, Wiz, Rog
+Shield
+1
+Self
+Abjuration
+Sor, Wiz, Rog
+Shield of Faith
+1
+60 ft
+Abjuration
+Cler, Pal
+Shield of Faith
+1
+60 ft
+Abjuration
+Cler, Pal
+Silent Image
+1
+60 ft (15 ft *)
+Illusion
+Bar, Sor, Wiz, Rog
+Silent Image
+1
+60 ft (15 ft *)
+Illusion
+Bar, Sor, Wiz, Rog
+Silvery Barbs
+1
+60 ft
+Enchantment
+Bar, Sor, Wiz
+Sleep
+1
+90 ft (20 ft )
+Enchantment
+Bar, Sor, Wiz, Rog
+Sleep
+1
+60 ft (5 ft )
+Enchantment
+Bar, Sor, Wiz, Rog
+Snare
+1
+Touch
+Abjuration
+Dru, Ran, Wiz, Rog, Art
+Speak with Animals
+1
+Self
+Divination
+Bar, Dru, Ran
+Speak with Animals
+1
+Self
+Divination
+Bar, Dru, Ran, War
+Sudden Awakening
+1
+10 ft
+Enchantment
+Bar, Ran, Sor, Wiz, Rog
+Tasha's Caustic Brew
+1
+Self (10 ft)
+Evocation
+Sor, Wiz, Art
+Tasha's Hideous Laughter
+1
+30 ft
+Enchantment
+Bar, Wiz, Rog
+Tasha's Hideous Laughter
+1
+30 ft
+Enchantment
+Bar, War, Wiz, Rog
+Tenser's Floating Disk
+1
+30 ft
+Conjuration
+Wiz, Rog
+Tenser's Floating Disk
+1
+30 ft
+Conjuration
+Wiz, Rog
+Thunderous Smite
+1
+Self
+Evocation
+Pal
+Thunderous Smite
+1
+Self
+Evocation
+Pal
+Thunderwave
+1
+Self (15 ft )
+Evocation
+Bar, Dru, Sor, Wiz, Rog
+Thunderwave
+1
+Self (15 ft )
+Evocation
+Bar, Dru, Sor, Wiz, Rog
+Unearthly Chorus
+1
+Self (30 ft )
+Illusion
+Bar
+Unseen Servant
+1
+60 ft
+Conjuration
+Bar, War, Wiz, Rog
+Unseen Servant
+1
+60 ft
+Conjuration
+Bar, War, Wiz, Rog
+Wild Cunning
+1
+120 ft
+Transmutation
+Dru, Ran
+Witch Bolt
+1
+30 ft
+Evocation
+Sor, War, Wiz, Rog
+Witch Bolt
+1
+60 ft
+Evocation
+Sor, War, Wiz, Rog
+Wrathful Smite
+1
+Self
+Evocation
+Pal
+Wrathful Smite
+1
+Self
+Necromancy
+Pal
+Zephyr Strike
+1
+Self
+Transmutation
+Ran
+Aganazzar's Scorcher
+2
+30 ft (30 ft )
+Evocation
+Sor, Wiz, Rog
+Aid
+2
+30 ft
+Abjuration
+Cler, Pal, Art
+Aid
+2
+30 ft
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Art
+Air Bubble
+2
+60 ft
+Conjuration
+Dru, Ran, Sor, Wiz, Art
+Alter Self
+2
+Self
+Transmutation
+Sor, Wiz, Rog, Art
+Alter Self
+2
+Self
+Transmutation
+Sor, Wiz, Rog, Art
+Animal Messenger
+2
+30 ft
+Enchantment
+Bar, Dru, Ran, Rog
+Animal Messenger
+2
+30 ft
+Enchantment
+Bar, Dru, Ran
+Arcane Lock
+2
+Touch
+Abjuration
+Wiz, Rog, Art
+Arcane Lock
+2
+Touch
+Abjuration
+Wiz, Rog, Art
+Arcane Vigor
+2
+Self
+Abjuration
+Sor, Wiz, Rog
+Augury
+2
+Self
+Divination
+Cler
+Augury
+2
+Self
+Divination
+Cler, Dru, Wiz, Rog
+Barkskin
+2
+Touch
+Transmutation
+Dru, Ran
+Barkskin
+2
+Touch
+Transmutation
+Dru, Ran
+Beast Sense
+2
+Touch
+Divination
+Dru, Ran
+Beast Sense
+2
+Touch
+Divination
+Dru, Ran
+Blindness / Deafness
+2
+30 ft
+Necromancy
+Bar, Cler, Sor, Wiz, Rog
+Blindness / Deafness
+2
+120 ft
+Transmutation
+Bar, Cler, Sor, Wiz, Rog
+Blur
+2
+Self
+Illusion
+Sor, Wiz, Rog, Art
+Blur
+2
+Self
+Illusion
+Sor, Wiz, Rog, Art
+Borrowed Knowledge
+2
+Self
+Divination
+Bar, Cler, War, Wiz
+Branding Smite
+2
+Self
+Evocation
+Pal
+Calm Emotions
+2
+60 ft (20 ft )
+Enchantment
+Bar, Cler
+Calm Emotions
+2
+60 ft (20 ft )
+Enchantment
+Bar, Cler
+Cloud of Daggers
+2
+60 ft (5 ft )
+Conjuration
+Bar, Sor, War, Wiz, Rog
+Cloud of Daggers
+2
+60 ft (5 ft )
+Conjuration
+Bar, Sor, War, Wiz, Rog
+Continual Flame
+2
+Touch
+Evocation
+Cler, Wiz, Rog, Art
+Continual Flame
+2
+Touch
+Evocation
+Cler, Dru, Wiz, Rog, Art
+Cordon of Arrows
+2
+5 ft
+Transmutation
+Ran
+Cordon of Arrows
+2
+Touch
+Transmutation
+Ran
+Crown of Madness
+2
+120 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Crown of Madness
+2
+120 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Darkness
+2
+60 ft (15 ft )
+Evocation
+Sor, War, Wiz, Rog
+Darkness
+2
+60 ft (15 ft )
+Evocation
+Sor, War, Wiz, Rog
+Darkvision
+2
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Darkvision
+2
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Detect Thoughts
+2
+Self
+Divination
+Bar, Sor, Wiz, Rog
+Detect Thoughts
+2
+Self
+Divination
+Bar, Sor, Wiz, Rog
+Dragon's Breath
+2
+Touch (15 ft )
+Transmutation
+Sor, Wiz, Rog
+Dragon's Breath
+2
+Touch (15 ft )
+Transmutation
+Sor, Wiz, Rog
+Dust Devil
+2
+60 ft (5 ft *)
+Conjuration
+Dru, Sor, Wiz, Rog
+Earthbind
+2
+300 ft
+Transmutation
+Dru, Sor, War, Wiz, Rog
+Enhance Ability
+2
+Touch
+Transmutation
+Bar, Cler, Dru, Sor, Art
+Enhance Ability
+2
+Touch
+Transmutation
+Bar, Cler, Dru, Ran, Sor, Wiz, Rog, Art
+Enlarge / Reduce
+2
+30 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Enlarge / Reduce
+2
+30 ft
+Transmutation
+Bar, Dru, Sor, Wiz, Rog, Art
+Enthrall
+2
+60 ft
+Enchantment
+Bar, War
+Enthrall
+2
+60 ft
+Enchantment
+Bar, War
+Find Steed
+2
+30 ft
+Conjuration
+Pal
+Find Steed
+2
+30 ft
+Conjuration
+Pal
+Find Traps
+2
+120 ft
+Divination
+Cler, Dru, Ran
+Find Traps
+2
+120 ft
+Divination
+Cler, Dru, Ran
+Flame Blade
+2
+Self
+Evocation
+Dru
+Flame Blade
+2
+Self
+Evocation
+Dru, Sor
+Flaming Sphere
+2
+60 ft (5 ft )
+Conjuration
+Dru, Wiz, Rog
+Flaming Sphere
+2
+60 ft (5 ft )
+Conjuration
+Dru, Sor, Wiz, Rog
+Fortune's Favor
+2
+60 ft
+Divination
+Wiz
+Gentle Repose
+2
+Touch
+Necromancy
+Cler, Wiz, Rog
+Gentle Repose
+2
+Touch
+Necromancy
+Cler, Pal, Wiz, Rog
+Gift of Gab
+2
+Self
+Enchantment
+Bar, Wiz, Rog
+Gust of Wind
+2
+Self (60 ft )
+Evocation
+Dru, Sor, Wiz, Rog
+Gust of Wind
+2
+Self
+Evocation
+Dru, Ran, Sor, Wiz, Rog
+Healing Spirit
+2
+60 ft (5 ft )
+Conjuration
+Dru, Ran
+Heat Metal
+2
+60 ft
+Transmutation
+Bar, Dru, Art
+Heat Metal
+2
+60 ft
+Transmutation
+Bar, Dru, Art
+Hold Person
+2
+60 ft
+Enchantment
+Bar, Cler, Dru, Sor, War, Wiz, Rog
+Hold Person
+2
+60 ft
+Enchantment
+Bar, Cler, Dru, Sor, War, Wiz, Rog
+Immovable Object
+2
+Touch
+Transmutation
+Wiz
+Invisibility
+2
+Touch
+Illusion
+Bar, Sor, War, Wiz, Rog, Art
+Invisibility
+2
+Touch
+Illusion
+Bar, Sor, War, Wiz, Rog, Art
+Jim's Glowing Coin
+2
+60 ft
+Enchantment
+Wiz, Rog
+Kinetic Jaunt
+2
+Self
+Transmutation
+Bar, Sor, Wiz, Art
+Knock
+2
+60 ft
+Transmutation
+Bar, Sor, Wiz, Rog
+Knock
+2
+60 ft
+Transmutation
+Bar, Sor, Wiz, Rog
+Lesser Restoration
+2
+Touch
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Art
+Lesser Restoration
+2
+Touch
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Art
+Levitate
+2
+60 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Levitate
+2
+60 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Locate Animals or Plants
+2
+Self
+Divination
+Bar, Dru, Ran
+Locate Animals or Plants
+2
+Self
+Divination
+Bar, Dru, Ran
+Locate Object
+2
+Self
+Divination
+Bar, Cler, Dru, Pal, Ran, Wiz, Rog
+Locate Object
+2
+Self
+Divination
+Bar, Cler, Dru, Pal, Ran, Wiz, Rog
+Magic Mouth
+2
+30 ft
+Illusion
+Bar, Wiz, Rog, Art
+Magic Mouth
+2
+30 ft
+Illusion
+Bar, Wiz, Rog, Art
+Magic Weapon
+2
+Touch
+Transmutation
+Pal, Wiz, Rog, Art
+Magic Weapon
+2
+Touch
+Transmutation
+Pal, Ran, Sor, Wiz, Rog, Art
+Maximilian's Earthen Grasp
+2
+30 ft (5 ft )
+Transmutation
+Sor, Wiz, Rog
+Melf's Acid Arrow
+2
+90 ft
+Evocation
+Wiz, Rog
+Melf's Acid Arrow
+2
+90 ft
+Evocation
+Wiz, Rog
+Mental Barrier
+2
+Self
+Abjuration
+Bar, Sor, War, Wiz, Rog
+Mind Spike
+2
+60 ft
+Divination
+Sor, War, Wiz, Rog
+Mind Spike
+2
+120 ft
+Divination
+Sor, War, Wiz, Rog
+Mirror Image
+2
+Self
+Illusion
+Sor, War, Wiz, Rog
+Mirror Image
+2
+Self
+Illusion
+Bar, Sor, War, Wiz, Rog
+Misty Step
+2
+Self
+Conjuration
+Sor, War, Wiz, Rog
+Misty Step
+2
+Self
+Conjuration
+Sor, War, Wiz, Rog
+Moonbeam
+2
+120 ft (5 ft *)
+Evocation
+Dru
+Moonbeam
+2
+120 ft (5 ft *)
+Evocation
+Dru
+Nathair's Mischief
+2
+60 ft
+Illusion
+Bar, Sor, Wiz
+Nystul's Magic Aura
+2
+Touch
+Illusion
+Wiz, Rog
+Nystul's Magic Aura
+2
+Touch
+Illusion
+Wiz, Rog
+Pass without Trace
+2
+Self
+Abjuration
+Dru, Ran
+Pass without Trace
+2
+Self (30 ft )
+Abjuration
+Dru, Ran
+Phantasmal Force
+2
+60 ft (10 ft *)
+Illusion
+Bar, Sor, Wiz, Rog
+Phantasmal Force
+2
+60 ft (10 ft *)
+Illusion
+Bar, Sor, Wiz, Rog
+Prayer of Healing
+2
+30 ft
+Evocation
+Cler
+Prayer of Healing
+2
+30 ft
+Abjuration
+Cler, Pal
+Protection from Poison
+2
+Touch
+Abjuration
+Cler, Dru, Pal, Ran, Art
+Protection from Poison
+2
+Touch
+Abjuration
+Cler, Dru, Pal, Ran, Art
+Pyrotechnics
+2
+60 ft (5 ft *)
+Transmutation
+Bar, Sor, Wiz, Rog, Art
+Ray of Enfeeblement
+2
+60 ft
+Necromancy
+War, Wiz, Rog
+Ray of Enfeeblement
+2
+60 ft
+Necromancy
+War, Wiz, Rog
+Rime's Binding Ice
+2
+Self (30-foot )
+Evocation
+Sor, Wiz
+Rope Trick
+2
+Touch
+Transmutation
+Wiz, Rog, Art
+Rope Trick
+2
+Touch
+Transmutation
+Wiz, Rog, Art
+Scorching Ray
+2
+120 ft
+Evocation
+Sor, Wiz, Rog
+Scorching Ray
+2
+120 ft
+Evocation
+Sor, Wiz, Rog
+See Invisibility
+2
+Self
+Divination
+Bar, Sor, Wiz, Rog, Art
+See Invisibility
+2
+Self
+Divination
+Bar, Sor, Wiz, Rog, Art
+Shadow Blade
+2
+Self
+Illusion
+Sor, War, Wiz, Rog
+Shatter
+2
+60 ft (10 ft )
+Evocation
+Bar, Sor, War, Wiz, Rog
+Shatter
+2
+60 ft (10 ft )
+Evocation
+Bar, Sor, Wiz, Rog
+Shining Smite
+2
+Self
+Transmutation
+Pal
+Silence
+2
+120 ft (20 ft )
+Illusion
+Bar, Cler, Ran
+Silence
+2
+120 ft (20 ft )
+Illusion
+Bar, Cler, Ran
+Skywrite
+2
+Sight
+Transmutation
+Bar, Dru, Wiz, Rog, Art
+Snilloc's Snowball Swarm
+2
+90 ft (5 ft )
+Evocation
+Sor, Wiz, Rog
+Spider Climb
+2
+Touch
+Transmutation
+Sor, War, Wiz, Rog, Art
+Spider Climb
+2
+Touch
+Transmutation
+Sor, War, Wiz, Rog, Art
+Spike Growth
+2
+150 ft (20 ft )
+Transmutation
+Dru, Ran
+Spike Growth
+2
+150 ft (20 ft )
+Transmutation
+Dru, Ran
+Spiritual Weapon
+2
+60 ft
+Evocation
+Cler
+Spiritual Weapon
+2
+60 ft
+Evocation
+Cler
+Suggestion
+2
+30 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Suggestion
+2
+30 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Summon Beast
+2
+90 ft
+Conjuration
+Dru, Ran
+Summon Beast
+2
+90 ft
+Conjuration
+Dru, Ran
+Tasha's Mind Whip
+2
+90 ft
+Enchantment
+Sor, Wiz
+Vortex Warp
+2
+90 ft
+Conjuration
+Sor, Wiz, Art
+Warding Bond
+2
+Touch
+Abjuration
+Cler
+Warding Bond
+2
+Touch
+Abjuration
+Cler, Pal
+Warding Wind
+2
+Self (10 ft )
+Evocation
+Bar, Dru, Sor, Wiz, Rog
+Web
+2
+60 ft (20 ft )
+Conjuration
+Sor, Wiz, Rog, Art
+Web
+2
+60 ft (20 ft )
+Conjuration
+Sor, Wiz, Rog, Art
+Wither and Bloom
+2
+60 ft (10 ft )
+Necromancy
+Dru, Sor, Wiz
+Wristpocket
+2
+Self
+Conjuration
+Wiz
+Zone of Truth
+2
+60 ft (15 ft )
+Enchantment
+Bar, Cler, Pal
+Zone of Truth
+2
+60 ft (15 ft )
+Enchantment
+Bar, Cler, Pal
+Animate Dead
+3
+10 ft
+Necromancy
+Cler, Wiz, Rog
+Animate Dead
+3
+10 ft
+Necromancy
+Cler, Wiz, Rog
+Ashardalon's Stride
+3
+Self
+Transmutation
+Ran, Sor, Wiz, Art
+Aura of Vitality
+3
+Self (30 ft )
+Evocation
+Pal
+Aura of Vitality
+3
+Self (30 ft )
+Abjuration
+Cler, Dru, Pal
+Beacon of Hope
+3
+30 ft
+Abjuration
+Cler
+Beacon of Hope
+3
+30 ft
+Abjuration
+Cler
+Bestow Curse
+3
+Touch
+Necromancy
+Bar, Cler, Wiz, Rog
+Bestow Curse
+3
+Touch
+Necromancy
+Bar, Cler, Wiz, Rog
+Blinding Smite
+3
+Self
+Evocation
+Pal
+Blinding Smite
+3
+Self
+Evocation
+Pal
+Blink
+3
+Self
+Transmutation
+Sor, Wiz, Rog, Art
+Blink
+3
+Self
+Transmutation
+Sor, Wiz, Rog, Art
+Call Lightning
+3
+120 ft (60 ft *)
+Conjuration
+Dru
+Call Lightning
+3
+120 ft (60 ft *)
+Conjuration
+Dru
+Catnap
+3
+30 ft
+Enchantment
+Bar, Sor, Wiz, Rog, Art
+Clairvoyance
+3
+1 mile
+Divination
+Bar, Cler, Sor, Wiz, Rog
+Clairvoyance
+3
+1 mile
+Divination
+Bar, Cler, Sor, Wiz, Rog
+Conjure Animals
+3
+60 ft
+Conjuration
+Dru, Ran
+Conjure Animals
+3
+60 ft
+Conjuration
+Dru, Ran
+Conjure Barrage
+3
+Self (60 ft )
+Conjuration
+Ran
+Conjure Barrage
+3
+Self (60 ft )
+Conjuration
+Ran
+Conjure Lesser Demon
+3
+60 ft
+Conjuration
+Sor, Wiz, Rog
+Counterspell
+3
+60 ft
+Abjuration
+Sor, War, Wiz, Rog
+Counterspell
+3
+60 ft
+Abjuration
+Sor, War, Wiz, Rog
+Create Food and Water
+3
+30 ft
+Conjuration
+Cler, Pal, Art
+Create Food and Water
+3
+30 ft
+Conjuration
+Cler, Pal, Art
+Crusader's Mantle
+3
+Self (30 ft )
+Evocation
+Pal
+Crusader's Mantle
+3
+Self (30 ft )
+Evocation
+Pal
+Daylight
+3
+60 ft (60 ft )
+Evocation
+Cler, Dru, Pal, Ran, Sor
+Daylight
+3
+60 ft (60 ft )
+Evocation
+Cler, Dru, Pal, Ran, Sor
+Dispel Magic
+3
+120 ft
+Abjuration
+Bar, Cler, Dru, Pal, Sor, War, Wiz, Rog, Art
+Dispel Magic
+3
+120 ft
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Sor, War, Wiz, Rog, Art
+Elemental Weapon
+3
+Touch
+Transmutation
+Pal, Art
+Elemental Weapon
+3
+Touch
+Transmutation
+Dru, Pal, Ran, Art
+Enemies Abound
+3
+120 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Erupting Earth
+3
+120 ft (20 ft )
+Transmutation
+Dru, Sor, Wiz, Rog
+Fast Friends
+3
+30 ft
+Enchantment
+Bar, Cler, Wiz, Rog
+Fear
+3
+Self (30 ft )
+Illusion
+Bar, Sor, War, Wiz, Rog
+Fear
+3
+Self (30 ft )
+Illusion
+Bar, Sor, War, Wiz, Rog
+Feign Death
+3
+Touch
+Necromancy
+Bar, Cler, Dru, Wiz, Rog
+Feign Death
+3
+Touch
+Necromancy
+Bar, Cler, Dru, Wiz, Rog
+Fireball
+3
+150 ft (20 ft )
+Evocation
+Sor, Wiz, Rog
+Fireball
+3
+150 ft (20 ft )
+Evocation
+Sor, Wiz, Rog
+Flame Arrows
+3
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Fly
+3
+Touch
+Transmutation
+Sor, War, Wiz, Rog, Art
+Fly
+3
+Touch
+Transmutation
+Sor, War, Wiz, Rog, Art
+Gaseous Form
+3
+Touch
+Transmutation
+Sor, War, Wiz, Rog
+Gaseous Form
+3
+Touch
+Transmutation
+Sor, War, Wiz, Rog
+Glyph of Warding
+3
+Touch
+Abjuration
+Bar, Cler, Wiz, Rog, Art
+Glyph of Warding
+3
+Touch
+Abjuration
+Bar, Cler, Wiz, Rog, Art
+Haste
+3
+30 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Haste
+3
+30 ft
+Transmutation
+Sor, Wiz, Rog, Art
+Hunger of Hadar
+3
+150 ft (20 ft )
+Conjuration
+War
+Hunger of Hadar
+3
+150 ft (20 ft )
+Conjuration
+War
+Hypnotic Pattern
+3
+120 ft (30 ft )
+Illusion
+Bar, Sor, War, Wiz, Rog
+Hypnotic Pattern
+3
+120 ft (30 ft )
+Illusion
+Bar, Sor, War, Wiz, Rog
+Incite Greed
+3
+30 ft
+Enchantment
+Cler, Sor, War, Wiz, Rog
+Intellect Fortress
+3
+30 ft
+Abjuration
+Bar, Sor, War, Wiz, Art
+Leomund's Tiny Hut
+3
+Self (10 ft )
+Evocation
+Bar, Wiz, Rog
+Leomund's Tiny Hut
+3
+Self (10 ft )
+Evocation
+Bar, Wiz, Rog
+Life Transference
+3
+30 ft
+Necromancy
+Cler, Wiz, Rog
+Lightning Arrow
+3
+Self
+Transmutation
+Ran
+Lightning Arrow
+3
+Self
+Transmutation
+Ran
+Lightning Bolt
+3
+Self (100 ft )
+Evocation
+Sor, Wiz, Rog
+Lightning Bolt
+3
+Self (100 ft )
+Evocation
+Sor, Wiz, Rog
+Magic Circle
+3
+10 ft (10 ft *)
+Abjuration
+Cler, Pal, War, Wiz, Rog
+Magic Circle
+3
+10 ft (10 ft *)
+Abjuration
+Cler, Pal, War, Wiz, Rog
+Major Image
+3
+120 ft (20 ft *)
+Illusion
+Bar, Sor, War, Wiz, Rog
+Major Image
+3
+120 ft (20 ft *)
+Illusion
+Bar, Sor, War, Wiz, Rog
+Mass Healing Word
+3
+60 ft
+Evocation
+Cler
+Mass Healing Word
+3
+60 ft
+Abjuration
+Bar, Cler
+Meld into Stone
+3
+Touch
+Transmutation
+Cler, Dru
+Meld into Stone
+3
+Touch
+Transmutation
+Cler, Dru, Ran
+Melf's Minute Meteors
+3
+Self
+Evocation
+Sor, Wiz, Rog
+Motivational Speech
+3
+60 ft
+Enchantment
+Bar, Cler
+Nondetection
+3
+Touch
+Abjuration
+Bar, Ran, Wiz, Rog
+Nondetection
+3
+Touch
+Abjuration
+Bar, Ran, Wiz, Rog
+Phantom Steed
+3
+30 ft
+Illusion
+Wiz, Rog
+Phantom Steed
+3
+30 ft
+Illusion
+Wiz, Rog
+Plant Growth
+3
+150 ft
+Transmutation
+Bar, Dru, Ran
+Plant Growth
+3
+150 ft (100 ft )
+Transmutation
+Bar, Dru, Ran
+Protection from Energy
+3
+Touch
+Abjuration
+Cler, Dru, Ran, Sor, Wiz, Rog, Art
+Protection from Energy
+3
+Touch
+Abjuration
+Cler, Dru, Ran, Sor, Wiz, Rog, Art
+Pulse Wave
+3
+Self (30-foot )
+Evocation
+Wiz
+Remove Curse
+3
+Touch
+Abjuration
+Cler, Pal, War, Wiz
+Remove Curse
+3
+Touch
+Abjuration
+Cler, Pal, War, Wiz
+Revivify
+3
+Touch
+Necromancy
+Cler, Pal, Art
+Revivify
+3
+Touch
+Necromancy
+Cler, Dru, Pal, Ran, Art
+Sending
+3
+Unlimited
+Evocation
+Bar, Cler, Wiz, Rog
+Sending
+3
+Unlimited
+Divination
+Bar, Cler, Wiz, Rog
+Sleet Storm
+3
+150 ft (40 ft *)
+Conjuration
+Dru, Sor, Wiz, Rog
+Sleet Storm
+3
+150 ft (40 ft *)
+Conjuration
+Dru, Sor, Wiz, Rog
+Slow
+3
+120 ft (40 ft )
+Transmutation
+Sor, Wiz, Rog
+Slow
+3
+120 ft (40 ft )
+Transmutation
+Bar, Sor, Wiz, Rog
+Speak with Dead
+3
+10 ft
+Necromancy
+Bar, Cler
+Speak with Dead
+3
+10 ft
+Necromancy
+Bar, Cler, Wiz, Rog
+Speak with Plants
+3
+Self
+Transmutation
+Bar, Dru, Ran
+Speak with Plants
+3
+Self
+Transmutation
+Bar, Dru, Ran
+Spirit Guardians
+3
+Self
+Conjuration
+Cler
+Spirit Guardians
+3
+Self (15 ft )
+Conjuration
+Cler
+Spirit Shroud
+3
+Self
+Necromancy
+Cler, Pal, War, Wiz
+Stinking Cloud
+3
+90 ft (20 ft )
+Conjuration
+Bar, Sor, Wiz, Rog
+Stinking Cloud
+3
+90 ft (20 ft )
+Conjuration
+Bar, Sor, Wiz, Rog
+Summon Fey
+3
+90 ft
+Conjuration
+Dru, Ran, War, Wiz
+Summon Fey
+3
+90 ft
+Conjuration
+Dru, Ran, War, Wiz, Rog
+Summon Lesser Demon
+3
+60 ft
+Conjuration
+War, Wiz, Rog
+Summon Shadowspawn
+3
+90 ft
+Conjuration
+War, Wiz
+Summon Undead
+3
+90 ft
+Necromancy
+War, Wiz
+Summon Undead
+3
+90 ft
+Necromancy
+War, Wiz
+Thunder Step
+3
+90 ft
+Conjuration
+Sor, War, Wiz, Rog
+Tidal Wave
+3
+120 ft
+Conjuration
+Dru, Sor, Wiz, Rog
+Tiny Servant
+3
+Touch
+Transmutation
+Wiz, Rog, Art
+Tongues
+3
+Touch
+Divination
+Bar, Cler, Sor, War, Wiz, Rog
+Tongues
+3
+Touch
+Divination
+Bar, Cler, Sor, War, Wiz, Rog
+Vampiric Touch
+3
+Self
+Necromancy
+War, Wiz, Rog
+Vampiric Touch
+3
+Self
+Necromancy
+War, Wiz, Rog
+Wall of Sand
+3
+90 ft
+Evocation
+Wiz, Rog
+Wall of Water
+3
+60 ft
+Evocation
+Dru, Sor, Wiz, Rog
+Water Breathing
+3
+30 ft
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Water Breathing
+3
+30 ft
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Water Walk
+3
+30 ft
+Transmutation
+Cler, Dru, Ran, Sor, Art
+Water Walk
+3
+30 ft
+Transmutation
+Cler, Dru, Ran, Sor, Art
+Wind Wall
+3
+120 ft
+Evocation
+Dru, Ran
+Wind Wall
+3
+120 ft
+Evocation
+Dru, Ran
+Arcane Eye
+4
+30 ft
+Divination
+Wiz, Rog, Art
+Arcane Eye
+4
+30 ft
+Divination
+Wiz, Rog, Art
+Aura of Life
+4
+Self (30 ft )
+Abjuration
+Pal
+Aura of Life
+4
+Self (30 ft )
+Abjuration
+Cler, Pal
+Aura of Purity
+4
+Self (30 ft )
+Abjuration
+Pal
+Aura of Purity
+4
+Self (30 ft )
+Abjuration
+Cler, Pal
+Banishment
+4
+60 ft
+Abjuration
+Cler, Pal, Sor, War, Wiz, Rog
+Banishment
+4
+30 ft
+Abjuration
+Cler, Pal, Sor, War, Wiz, Rog
+Blight
+4
+30 ft
+Necromancy
+Dru, Sor, War, Wiz, Rog
+Blight
+4
+30 ft
+Necromancy
+Dru, Sor, War, Wiz, Rog
+Charm Monster
+4
+30 ft
+Enchantment
+Bar, Dru, Sor, War, Wiz, Rog
+Charm Monster
+4
+30 ft
+Enchantment
+Bar, Dru, Sor, War, Wiz, Rog
+Cold Shield
+4
+Self
+Evocation
+Wiz, Rog
+Compulsion
+4
+30 ft
+Enchantment
+Bar
+Compulsion
+4
+30 ft
+Enchantment
+Bar
+Confusion
+4
+90 ft (10 ft )
+Enchantment
+Bar, Dru, Sor, Wiz, Rog
+Confusion
+4
+90 ft (10 ft )
+Enchantment
+Bar, Dru, Sor, Wiz, Rog
+Conjure Barlgura
+4
+60 ft
+Conjuration
+Sor, Wiz, Rog
+Conjure Minor Elementals
+4
+90 ft
+Conjuration
+Dru, Wiz, Rog
+Conjure Minor Elementals
+4
+Self (15 ft )
+Conjuration
+Dru, Wiz, Rog
+Conjure Shadow Demon
+4
+60 ft
+Conjuration
+Sor, Wiz, Rog
+Conjure Woodland Beings
+4
+60 ft
+Conjuration
+Dru, Ran
+Conjure Woodland Beings
+4
+Self (10 ft )
+Conjuration
+Dru, Ran
+Control Water
+4
+300 ft
+Transmutation
+Cler, Dru, Wiz, Rog
+Control Water
+4
+300 ft
+Transmutation
+Cler, Dru, Wiz, Rog
+Death Ward
+4
+Touch
+Abjuration
+Cler, Pal
+Death Ward
+4
+Touch
+Abjuration
+Cler, Pal
+Dimension Door
+4
+500 ft
+Conjuration
+Bar, Sor, War, Wiz, Rog
+Dimension Door
+4
+500 ft
+Conjuration
+Bar, Sor, War, Wiz, Rog
+Divination
+4
+Self
+Divination
+Cler
+Divination
+4
+Self
+Divination
+Cler, Dru, Wiz, Rog
+Dominate Beast
+4
+60 ft
+Enchantment
+Dru, Sor
+Dominate Beast
+4
+60 ft
+Enchantment
+Dru, Ran, Sor
+Ego Whip
+4
+30 ft
+Enchantment
+Bar, Sor, War, Wiz, Rog
+Elemental Bane
+4
+90 ft
+Transmutation
+Dru, War, Wiz, Rog, Art
+Evard's Black Tentacles
+4
+90 ft (20 ft )
+Conjuration
+Wiz, Rog
+Evard's Black Tentacles
+4
+90 ft (20 ft )
+Conjuration
+Wiz, Rog
+Fabricate
+4
+120 ft ()
+Transmutation
+Wiz, Rog, Art
+Fabricate
+4
+120 ft ()
+Transmutation
+Wiz, Rog, Art
+Find Greater Steed
+4
+30 ft
+Conjuration
+Pal
+Fire Shield
+4
+Self
+Evocation
+Wiz, Rog
+Fire Shield
+4
+Self
+Evocation
+Dru, Sor, Wiz, Rog
+Fount of Moonlight
+4
+Self
+Evocation
+Bar, Dru
+Freedom of Movement
+4
+Touch
+Abjuration
+Bar, Cler, Dru, Ran, Art
+Freedom of Movement
+4
+Touch
+Abjuration
+Bar, Cler, Dru, Ran, Art
+Giant Insect
+4
+30 ft
+Transmutation
+Dru
+Giant Insect
+4
+60 ft
+Conjuration
+Dru
+Grasping Vine
+4
+30 ft
+Conjuration
+Dru, Ran
+Grasping Vine
+4
+60 ft
+Conjuration
+Dru, Ran
+Gravity Sinkhole
+4
+120 ft
+Evocation
+Wiz
+Greater Invisibility
+4
+Touch
+Illusion
+Bar, Sor, Wiz, Rog
+Greater Invisibility
+4
+Touch
+Illusion
+Bar, Sor, Wiz, Rog
+Guardian of Faith
+4
+30 ft
+Conjuration
+Cler
+Guardian of Faith
+4
+30 ft
+Conjuration
+Cler
+Guardian of Nature
+4
+Self
+Transmutation
+Dru, Ran
+Hallucinatory Terrain
+4
+300 ft (150 ft )
+Illusion
+Bar, Dru, War, Wiz, Rog
+Hallucinatory Terrain
+4
+300 ft (150 ft )
+Illusion
+Bar, Dru, War, Wiz, Rog
+Ice Storm
+4
+300 ft (20 ft *)
+Evocation
+Dru, Sor, Wiz, Rog
+Ice Storm
+4
+300 ft (20 ft *)
+Evocation
+Dru, Sor, Wiz, Rog
+Leomund's Secret Chest
+4
+Touch
+Conjuration
+Wiz, Rog, Art
+Leomund's Secret Chest
+4
+Touch
+Conjuration
+Wiz, Rog, Art
+Locate Creature
+4
+Self
+Divination
+Bar, Cler, Dru, Pal, Ran, Wiz, Rog
+Locate Creature
+4
+Self
+Divination
+Bar, Cler, Dru, Pal, Ran, Wiz, Rog
+Mordenkainen's Faithful Hound
+4
+30 ft
+Conjuration
+Wiz, Rog, Art
+Mordenkainen's Faithful Hound
+4
+30 ft
+Conjuration
+Wiz, Rog, Art
+Mordenkainen's Private Sanctum
+4
+120 ft (*)
+Abjuration
+Wiz, Rog, Art
+Mordenkainen's Private Sanctum
+4
+120 ft (*)
+Abjuration
+Wiz, Rog, Art
+Otiluke's Resilient Sphere
+4
+30 ft (*)
+Evocation
+Wiz, Rog, Art
+Otiluke's Resilient Sphere
+4
+30 ft
+Abjuration
+Wiz, Rog, Art
+Phantasmal Killer
+4
+120 ft
+Illusion
+Wiz, Rog
+Phantasmal Killer
+4
+120 ft
+Illusion
+Bar, Wiz, Rog
+Polymorph
+4
+60 ft
+Transmutation
+Bar, Dru, Sor, Wiz, Rog
+Polymorph
+4
+60 ft
+Transmutation
+Bar, Dru, Sor, Wiz, Rog
+Raulothim's Psychic Lance
+4
+120 ft
+Enchantment
+Bar, Sor, War, Wiz
+Shadow of Moil
+4
+Self
+Necromancy
+War
+Sickening Radiance
+4
+120 ft (30 ft )
+Evocation
+Sor, War, Wiz, Rog
+Staggering Smite
+4
+Self
+Evocation
+Pal
+Staggering Smite
+4
+Self
+Enchantment
+Pal
+Stone Shape
+4
+Touch
+Transmutation
+Cler, Dru, Wiz, Rog, Art
+Stone Shape
+4
+Touch
+Transmutation
+Cler, Dru, Wiz, Rog, Art
+Stoneskin
+4
+Touch
+Abjuration
+Dru, Ran, Sor, Wiz, Rog, Art
+Stoneskin
+4
+Touch
+Transmutation
+Dru, Ran, Sor, Wiz, Rog, Art
+Storm Sphere
+4
+150 ft (20 ft )
+Evocation
+Sor, Wiz, Rog
+Summon Aberration
+4
+90 ft
+Conjuration
+War, Wiz
+Summon Aberration
+4
+90 ft
+Conjuration
+War, Wiz, Rog
+Summon Construct
+4
+90 ft
+Conjuration
+Wiz, Art
+Summon Construct
+4
+90 ft
+Conjuration
+Wiz, Rog, Art
+Summon Elemental
+4
+90 ft
+Conjuration
+Dru, Ran, Wiz
+Summon Elemental
+4
+90 ft
+Conjuration
+Dru, Ran, Wiz, Rog
+Summon Greater Demon
+4
+60 ft
+Conjuration
+War, Wiz, Rog
+Vitriolic Sphere
+4
+150 ft (20 ft )
+Evocation
+Sor, Wiz, Rog
+Vitriolic Sphere
+4
+150 ft (20 ft )
+Evocation
+Sor, Wiz, Rog
+Wall of Fire
+4
+120 ft
+Evocation
+Dru, Sor, Wiz, Rog
+Wall of Fire
+4
+120 ft
+Evocation
+Dru, Sor, Wiz, Rog
+Watery Sphere
+4
+90 ft (5 ft )
+Conjuration
+Dru, Sor, Wiz, Rog
+Animate Objects
+5
+120 ft
+Transmutation
+Bar, Sor, Wiz, Art
+Animate Objects
+5
+120 ft
+Transmutation
+Bar, Sor, Wiz, Art
+Antilife Shell
+5
+Self (10 ft )
+Abjuration
+Dru
+Antilife Shell
+5
+Self (10 ft )
+Abjuration
+Dru
+Awaken
+5
+Touch
+Transmutation
+Bar, Dru
+Awaken
+5
+Touch
+Transmutation
+Bar, Dru
+Banishing Smite
+5
+Self
+Abjuration
+Pal
+Banishing Smite
+5
+Self
+Conjuration
+Pal
+Bigby's Hand
+5
+120 ft
+Evocation
+Wiz, Art
+Bigby's Hand
+5
+120 ft
+Evocation
+Sor, Wiz, Art
+Circle of Power
+5
+Self (30 ft )
+Abjuration
+Pal
+Circle of Power
+5
+Self (30 ft )
+Abjuration
+Cler, Pal, Wiz
+Cloudkill
+5
+120 ft (20 ft )
+Conjuration
+Sor, Wiz
+Cloudkill
+5
+120 ft (20 ft )
+Conjuration
+Sor, Wiz
+Commune
+5
+Self
+Divination
+Cler
+Commune
+5
+Self
+Divination
+Cler
+Commune with Nature
+5
+Self
+Divination
+Dru, Ran
+Commune with Nature
+5
+Self
+Divination
+Dru, Ran
+Cone of Cold
+5
+Self (60 ft )
+Evocation
+Sor, Wiz
+Cone of Cold
+5
+Self (60 ft )
+Evocation
+Dru, Sor, Wiz
+Conjure Elemental
+5
+90 ft
+Conjuration
+Dru, Wiz
+Conjure Elemental
+5
+60 ft
+Conjuration
+Dru, Wiz
+Conjure Volley
+5
+150 ft (40 ft *)
+Conjuration
+Ran
+Conjure Volley
+5
+150 ft (40 ft *)
+Conjuration
+Ran
+Conjure Vrock
+5
+60 ft
+Conjuration
+Sor, Wiz
+Contact Other Plane
+5
+Self
+Divination
+War, Wiz
+Contact Other Plane
+5
+Self
+Divination
+War, Wiz
+Contagion
+5
+Touch
+Necromancy
+Cler, Dru
+Contagion
+5
+Touch
+Necromancy
+Cler, Dru
+Control Winds
+5
+300 ft (100 ft )
+Transmutation
+Dru, Sor, Wiz
+Create Spelljamming Helm
+5
+Touch
+Transmutation
+Wiz, Art
+Creation
+5
+30 ft (5 ft )
+Illusion
+Sor, Wiz, Art
+Creation
+5
+30 ft (5 ft )
+Illusion
+Sor, Wiz, Art
+Danse Macabre
+5
+60 ft
+Necromancy
+War, Wiz
+Dawn
+5
+60 ft (30 ft *)
+Evocation
+Cler, Wiz
+Destructive Wave
+5
+Self (30 ft )
+Evocation
+Pal
+Destructive Wave
+5
+Self (30 ft )
+Evocation
+Pal
+Dispel Good and Evil
+5
+Self
+Abjuration
+Cler, Pal
+Dispel Good and Evil
+5
+Self
+Abjuration
+Cler, Pal
+Dominate Person
+5
+60 ft
+Enchantment
+Bar, Sor, Wiz
+Dominate Person
+5
+60 ft
+Enchantment
+Bar, Sor, Wiz
+Dream
+5
+Special
+Illusion
+Bar, War, Wiz
+Dream
+5
+10 ft
+Illusion
+Bar, War, Wiz
+Enervation
+5
+60 ft
+Necromancy
+Sor, War, Wiz
+Far Step
+5
+Self
+Conjuration
+Sor, War, Wiz
+Flame Strike
+5
+60 ft (10 ft *)
+Evocation
+Cler
+Flame Strike
+5
+60 ft (10 ft *)
+Evocation
+Cler
+Geas
+5
+60 ft
+Enchantment
+Bar, Cler, Dru, Pal, Wiz
+Geas
+5
+60 ft
+Enchantment
+Bar, Cler, Dru, Pal, Wiz
+Greater Restoration
+5
+Touch
+Abjuration
+Bar, Cler, Dru, Art
+Greater Restoration
+5
+Touch
+Abjuration
+Bar, Cler, Dru, Pal, Ran, Art
+Hallow
+5
+Touch (60 ft *)
+Evocation
+Cler
+Hallow
+5
+Touch
+Abjuration
+Cler
+Hold Monster
+5
+90 ft
+Enchantment
+Bar, Sor, War, Wiz
+Hold Monster
+5
+90 ft
+Enchantment
+Bar, Sor, War, Wiz
+Holy Weapon
+5
+Touch
+Evocation
+Cler, Pal
+Immolation
+5
+90 ft
+Evocation
+Sor, Wiz
+Infernal Calling
+5
+90 ft
+Conjuration
+War, Wiz
+Insect Plague
+5
+300 ft (20 ft )
+Conjuration
+Cler, Dru, Sor
+Insect Plague
+5
+300 ft (20 ft )
+Conjuration
+Cler, Dru, Sor
+Jallarzi's Storm of Radiance
+5
+120 ft (10 ft )
+Evocation
+War, Wiz
+Legend Lore
+5
+Self
+Divination
+Bar, Cler, Wiz
+Legend Lore
+5
+Self
+Divination
+Bar, Cler, Wiz
+Maelstrom
+5
+120 ft
+Evocation
+Dru
+Mass Cure Wounds
+5
+60 ft (30 ft )
+Evocation
+Bar, Cler, Dru
+Mass Cure Wounds
+5
+60 ft (30 ft )
+Abjuration
+Bar, Cler, Dru
+Mislead
+5
+Self
+Illusion
+Bar, Wiz
+Mislead
+5
+Self
+Illusion
+Bar, War, Wiz
+Modify Memory
+5
+30 ft
+Enchantment
+Bar, Wiz
+Modify Memory
+5
+30 ft
+Enchantment
+Bar, Wiz
+Negative Energy Flood
+5
+60 ft
+Necromancy
+War, Wiz
+Passwall
+5
+30 ft
+Transmutation
+Wiz
+Passwall
+5
+30 ft
+Transmutation
+Wiz
+Planar Binding
+5
+60 ft
+Abjuration
+Bar, Cler, Dru, Wiz
+Planar Binding
+5
+60 ft
+Abjuration
+Bar, Cler, Dru, War, Wiz
+Raise Dead
+5
+Touch
+Necromancy
+Bar, Cler, Pal
+Raise Dead
+5
+Touch
+Necromancy
+Bar, Cler, Pal
+Rary's Telepathic Bond
+5
+30 ft
+Divination
+Wiz
+Rary's Telepathic Bond
+5
+30 ft
+Divination
+Bar, Wiz
+Reincarnate
+5
+Touch
+Transmutation
+Dru
+Reincarnate
+5
+Touch
+Necromancy
+Dru
+Scrying
+5
+Self
+Divination
+Bar, Cler, Dru, War, Wiz
+Scrying
+5
+Self
+Divination
+Bar, Cler, Dru, War, Wiz
+Seeming
+5
+30 ft
+Illusion
+Bar, Sor, Wiz
+Seeming
+5
+30 ft
+Illusion
+Bar, Sor, Wiz
+Skill Empowerment
+5
+Touch
+Transmutation
+Bar, Sor, Wiz, Art
+Steel Wind Strike
+5
+30 ft
+Conjuration
+Ran, Wiz
+Steel Wind Strike
+5
+30 ft
+Conjuration
+Ran, Wiz
+Summon Celestial
+5
+90 ft
+Conjuration
+Cler, Pal
+Summon Celestial
+5
+90 ft
+Conjuration
+Cler, Pal
+Summon Draconic Spirit
+5
+60 ft
+Conjuration
+Dru, Sor, Wiz
+Summon Dragon
+5
+60 ft
+Conjuration
+Wiz
+Swift Quiver
+5
+Touch
+Transmutation
+Ran
+Swift Quiver
+5
+Self
+Transmutation
+Ran
+Synaptic Static
+5
+120 ft (20 ft )
+Enchantment
+Bar, Sor, War, Wiz
+Synaptic Static
+5
+120 ft (20 ft )
+Enchantment
+Bar, Sor, War, Wiz
+Telekinesis
+5
+60 ft
+Transmutation
+Sor, Wiz
+Telekinesis
+5
+60 ft
+Transmutation
+Sor, Wiz
+Teleportation Circle
+5
+10 ft
+Conjuration
+Bar, Sor, Wiz
+Teleportation Circle
+5
+10 ft
+Conjuration
+Bar, Sor, War, Wiz
+Transmute Rock
+5
+120 ft (40 ft *)
+Transmutation
+Dru, Wiz, Art
+Tree Stride
+5
+Self
+Conjuration
+Dru, Ran
+Tree Stride
+5
+Self
+Conjuration
+Dru, Ran
+Wall of Force
+5
+120 ft
+Evocation
+Wiz
+Wall of Force
+5
+120 ft
+Evocation
+Wiz
+Wall of Light
+5
+120 ft
+Evocation
+Sor, War, Wiz
+Wall of Stone
+5
+120 ft
+Evocation
+Dru, Sor, Wiz, Art
+Wall of Stone
+5
+120 ft
+Evocation
+Dru, Sor, Wiz, Art
+Wrath of Nature
+5
+120 ft (60 ft )
+Evocation
+Dru, Ran
+Yolande's Regal Presence
+5
+Self (10 ft )
+Enchantment
+Bar, Wiz
+Arcane Gate
+6
+500 ft
+Conjuration
+Sor, War, Wiz
+Arcane Gate
+6
+500 ft
+Conjuration
+Sor, War, Wiz
+Blade Barrier
+6
+90 ft
+Evocation
+Cler
+Blade Barrier
+6
+90 ft
+Evocation
+Cler
+Bones of the Earth
+6
+120 ft
+Transmutation
+Dru
+Chain Lightning
+6
+150 ft
+Evocation
+Sor, Wiz
+Chain Lightning
+6
+150 ft
+Evocation
+Sor, Wiz
+Circle of Death
+6
+150 ft (60 ft )
+Necromancy
+Sor, War, Wiz
+Circle of Death
+6
+150 ft (60 ft )
+Necromancy
+Sor, War, Wiz
+Conjure Fey
+6
+90 ft
+Conjuration
+Dru, War
+Conjure Fey
+6
+60 ft
+Conjuration
+Dru
+Contingency
+6
+Self
+Evocation
+Wiz
+Contingency
+6
+Self
+Abjuration
+Wiz
+Create Homunculus
+6
+Touch
+Transmutation
+Wiz
+Create Undead
+6
+10 ft
+Necromancy
+Cler, War, Wiz
+Create Undead
+6
+10 ft
+Necromancy
+Cler, War, Wiz
+Disintegrate
+6
+60 ft
+Transmutation
+Sor, Wiz
+Disintegrate
+6
+60 ft
+Transmutation
+Sor, Wiz
+Drawmij's Instant Summons
+6
+Touch
+Conjuration
+Wiz
+Drawmij's Instant Summons
+6
+Touch
+Conjuration
+Wiz
+Druid Grove
+6
+Touch (*)
+Abjuration
+Dru
+Eyebite
+6
+Self
+Necromancy
+Bar, Sor, War, Wiz
+Eyebite
+6
+Self
+Necromancy
+Bar, Sor, War, Wiz
+Find the Path
+6
+Self
+Divination
+Bar, Cler, Dru
+Find the Path
+6
+Self
+Divination
+Bar, Cler, Dru
+Fizban's Platinum Shield
+6
+60 ft
+Abjuration
+Sor, Wiz
+Flesh to Stone
+6
+60 ft
+Transmutation
+War, Wiz
+Flesh to Stone
+6
+60 ft
+Transmutation
+Dru, Sor, Wiz
+Forbiddance
+6
+Touch (40,000 ft2)
+Abjuration
+Cler
+Forbiddance
+6
+Touch (40,000 ft2)
+Abjuration
+Cler
+Globe of Invulnerability
+6
+Self (10 ft )
+Abjuration
+Sor, Wiz
+Globe of Invulnerability
+6
+Self (10 ft )
+Abjuration
+Sor, Wiz
+Gravity Fissure
+6
+Self (100-foot )
+Evocation
+Wiz
+Guards and Wards
+6
+Touch (2,500 ft2)
+Abjuration
+Bar, Wiz
+Guards and Wards
+6
+Touch (2,500 ft2)
+Abjuration
+Bar, Wiz
+Harm
+6
+60 ft
+Necromancy
+Cler
+Harm
+6
+60 ft
+Necromancy
+Cler
+Heal
+6
+60 ft
+Evocation
+Cler, Dru
+Heal
+6
+60 ft
+Abjuration
+Cler, Dru
+Heroes' Feast
+6
+30 ft
+Conjuration
+Cler, Dru
+Heroes' Feast
+6
+Self (10 ft )
+Conjuration
+Cler, Dru, Pal
+Investiture of Flame
+6
+Self
+Transmutation
+Dru, Sor, War, Wiz
+Investiture of Ice
+6
+Self (15 ft *)
+Transmutation
+Dru, Sor, War, Wiz
+Investiture of Stone
+6
+Self
+Transmutation
+Dru, Sor, War, Wiz
+Investiture of Wind
+6
+Self (15 ft *)
+Transmutation
+Dru, Sor, War, Wiz
+Magic Jar
+6
+Self
+Necromancy
+Wiz
+Magic Jar
+6
+Self
+Necromancy
+Wiz
+Mass Suggestion
+6
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Mass Suggestion
+6
+60 ft
+Enchantment
+Bar, Sor, Wiz
+Mental Prison
+6
+60 ft
+Illusion
+Sor, War, Wiz
+Move Earth
+6
+120 ft
+Transmutation
+Dru, Sor, Wiz
+Move Earth
+6
+120 ft
+Transmutation
+Dru, Sor, Wiz
+Otiluke's Freezing Sphere
+6
+300 ft (60 ft )
+Evocation
+Wiz
+Otiluke's Freezing Sphere
+6
+300 ft (60 ft )
+Evocation
+Sor, Wiz
+Otto's Irresistible Dance
+6
+30 ft
+Enchantment
+Bar, Wiz
+Otto's Irresistible Dance
+6
+30 ft
+Enchantment
+Bar, Wiz
+Planar Ally
+6
+60 ft
+Conjuration
+Cler
+Planar Ally
+6
+60 ft
+Conjuration
+Cler
+Primordial Ward
+6
+Self
+Abjuration
+Dru
+Programmed Illusion
+6
+120 ft (30 ft *)
+Illusion
+Bar, Wiz
+Programmed Illusion
+6
+120 ft (30 ft *)
+Illusion
+Bar, Wiz
+Scatter
+6
+30 ft
+Conjuration
+Sor, War, Wiz
+Soul Cage
+6
+60 ft
+Necromancy
+War, Wiz
+Summon Fiend
+6
+90 ft
+Conjuration
+War, Wiz
+Summon Fiend
+6
+90 ft
+Conjuration
+War, Wiz
+Sunbeam
+6
+Self (60 ft )
+Evocation
+Dru, Sor, Wiz
+Sunbeam
+6
+Self (60 ft )
+Evocation
+Cler, Dru, Sor, Wiz
+Tasha's Bubbling Cauldron
+6
+5 ft
+Conjuration
+War, Wiz
+Tasha's Otherworldly Guise
+6
+Self
+Transmutation
+Sor, War, Wiz
+Tenser's Transformation
+6
+Self
+Transmutation
+Wiz
+Transport Via Plants
+6
+10 ft
+Conjuration
+Dru
+Transport Via Plants
+6
+10 ft
+Conjuration
+Dru
+True Seeing
+6
+Touch
+Divination
+Bar, Cler, Sor, War, Wiz
+True Seeing
+6
+Touch
+Divination
+Bar, Cler, Sor, War, Wiz
+Wall of Ice
+6
+120 ft
+Evocation
+Wiz
+Wall of Ice
+6
+120 ft
+Evocation
+Wiz
+Wall of Thorns
+6
+120 ft
+Conjuration
+Dru
+Wall of Thorns
+6
+120 ft
+Conjuration
+Dru
+Wind Walk
+6
+30 ft
+Transmutation
+Dru
+Wind Walk
+6
+30 ft
+Transmutation
+Dru
+Word of Recall
+6
+5 ft
+Conjuration
+Cler
+Word of Recall
+6
+5 ft
+Conjuration
+Cler
+Conjure Celestial
+7
+90 ft
+Conjuration
+Cler
+Conjure Celestial
+7
+90 ft (40 ft )
+Conjuration
+Cler
+Conjure Hezrou
+7
+60 ft
+Conjuration
+Sor, Wiz
+Create Magen
+7
+Touch
+Transmutation
+Wiz
+Crown of Stars
+7
+Self
+Evocation
+Sor, War, Wiz
+Delayed Blast Fireball
+7
+150 ft (20 ft )
+Evocation
+Sor, Wiz
+Delayed Blast Fireball
+7
+150 ft (20 ft )
+Evocation
+Sor, Wiz
+Divine Word
+7
+30 ft
+Evocation
+Cler
+Divine Word
+7
+30 ft
+Evocation
+Cler
+Draconic Transformation
+7
+Self
+Transmutation
+Dru, Sor, Wiz
+Dream of the Blue Veil
+7
+20 ft
+Conjuration
+Bar, Sor, War, Wiz
+Etherealness
+7
+Self
+Transmutation
+Bar, Cler, Sor, War, Wiz
+Etherealness
+7
+Self
+Conjuration
+Bar, Cler, Sor, War, Wiz
+Finger of Death
+7
+60 ft
+Necromancy
+Sor, War, Wiz
+Finger of Death
+7
+60 ft
+Necromancy
+Sor, War, Wiz
+Fire Storm
+7
+150 ft
+Evocation
+Cler, Dru, Sor
+Fire Storm
+7
+150 ft (10 ft )
+Evocation
+Cler, Dru, Sor
+Forcecage
+7
+100 ft (*)
+Evocation
+Bar, War, Wiz
+Forcecage
+7
+100 ft (*)
+Evocation
+Bar, War, Wiz
+Mirage Arcane
+7
+Sight (1 mile )
+Illusion
+Bar, Dru, Wiz
+Mirage Arcane
+7
+Sight (1 mile )
+Illusion
+Bar, Dru, Wiz
+Mordenkainen's Magnificent Mansion
+7
+300 ft (*)
+Conjuration
+Bar, Wiz
+Mordenkainen's Magnificent Mansion
+7
+300 ft
+Conjuration
+Bar, Wiz
+Mordenkainen's Sword
+7
+60 ft
+Evocation
+Bar, Wiz
+Mordenkainen's Sword
+7
+90 ft
+Evocation
+Bar, Wiz
+Plane Shift
+7
+Touch
+Conjuration
+Cler, Dru, Sor, War, Wiz
+Plane Shift
+7
+Touch
+Conjuration
+Cler, Dru, Sor, War, Wiz
+Power Word Fortify
+7
+60 ft
+Enchantment
+Bar, Cler
+Power Word Pain
+7
+60 ft
+Enchantment
+Sor, War, Wiz
+Prismatic Spray
+7
+Self (60 ft )
+Evocation
+Sor, Wiz
+Prismatic Spray
+7
+Self (60 ft )
+Evocation
+Bar, Sor, Wiz
+Project Image
+7
+500 miles
+Illusion
+Bar, Wiz
+Project Image
+7
+500 miles
+Illusion
+Bar, Wiz
+Regenerate
+7
+Touch
+Transmutation
+Bar, Cler, Dru
+Regenerate
+7
+Touch
+Transmutation
+Bar, Cler, Dru
+Resurrection
+7
+Touch
+Necromancy
+Bar, Cler
+Resurrection
+7
+Touch
+Necromancy
+Bar, Cler
+Reverse Gravity
+7
+100 ft (50 ft *)
+Transmutation
+Dru, Sor, Wiz
+Reverse Gravity
+7
+100 ft (50 ft *)
+Transmutation
+Dru, Sor, Wiz
+Sequester
+7
+Touch
+Transmutation
+Wiz
+Sequester
+7
+Touch
+Transmutation
+Wiz
+Simulacrum
+7
+Touch
+Illusion
+Wiz
+Simulacrum
+7
+Touch
+Illusion
+Wiz
+Symbol
+7
+Touch (60 ft )
+Abjuration
+Bar, Cler, Wiz
+Symbol
+7
+Touch (60 ft )
+Abjuration
+Bar, Cler, Dru, Wiz
+Teleport
+7
+10 ft
+Conjuration
+Bar, Sor, Wiz
+Teleport
+7
+10 ft
+Conjuration
+Bar, Sor, Wiz
+Temple of the Gods
+7
+120 ft
+Conjuration
+Cler
+Tether Essence
+7
+60 ft
+Necromancy
+Wiz
+Whirlwind
+7
+300 ft (10 ft *)
+Evocation
+Dru, Sor, Wiz
+Abi-Dalzim's Horrid Wilting
+8
+150 ft (30 ft )
+Necromancy
+Sor, Wiz
+Animal Shapes
+8
+30 ft
+Transmutation
+Dru
+Animal Shapes
+8
+30 ft
+Transmutation
+Dru
+Antimagic Field
+8
+Self (10 ft )
+Abjuration
+Cler, Wiz
+Antimagic Field
+8
+Self (10 ft )
+Abjuration
+Cler, Wiz
+Antipathy / Sympathy
+8
+60 ft (200 ft )
+Enchantment
+Dru, Wiz
+Antipathy / Sympathy
+8
+60 ft (120 ft )
+Enchantment
+Bar, Dru, Wiz
+Befuddlement
+8
+150 ft
+Enchantment
+Bar, Dru, War, Wiz
+Clone
+8
+Touch
+Necromancy
+Wiz
+Clone
+8
+Touch
+Necromancy
+Wiz
+Control Weather
+8
+Self (5 miles )
+Transmutation
+Cler, Dru, Wiz
+Control Weather
+8
+Self (5 miles )
+Transmutation
+Cler, Dru, Wiz
+Dark Star
+8
+150 ft
+Evocation
+Wiz
+Demiplane
+8
+60 ft
+Conjuration
+War, Wiz
+Demiplane
+8
+60 ft
+Conjuration
+Sor, War, Wiz
+Dominate Monster
+8
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Dominate Monster
+8
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Earthquake
+8
+500 ft
+Evocation
+Cler, Dru, Sor
+Earthquake
+8
+500 ft
+Transmutation
+Cler, Dru, Sor
+Feeblemind
+8
+150 ft
+Enchantment
+Bar, Dru, War, Wiz
+Glibness
+8
+Self
+Transmutation
+Bar, War
+Glibness
+8
+Self
+Enchantment
+Bar, War
+Holy Aura
+8
+Self (30 ft )
+Abjuration
+Cler
+Holy Aura
+8
+Self (30 ft )
+Abjuration
+Cler
+Illusory Dragon
+8
+120 ft
+Illusion
+Wiz
+Incendiary Cloud
+8
+150 ft (20 ft )
+Conjuration
+Sor, Wiz
+Incendiary Cloud
+8
+150 ft (20 ft )
+Conjuration
+Dru, Sor, Wiz
+Maddening Darkness
+8
+150 ft (60 ft )
+Evocation
+War, Wiz
+Maze
+8
+60 ft
+Conjuration
+Wiz
+Maze
+8
+60 ft
+Conjuration
+Wiz
+Mighty Fortress
+8
+1 mile
+Conjuration
+Wiz
+Mind Blank
+8
+Touch
+Abjuration
+Bar, Wiz
+Mind Blank
+8
+Touch
+Abjuration
+Bar, Wiz
+Power Word Stun
+8
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Power Word Stun
+8
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Reality Break
+8
+60 ft
+Conjuration
+Wiz
+Sunburst
+8
+150 ft (60 ft )
+Evocation
+Dru, Sor, Wiz
+Sunburst
+8
+150 ft (60 ft )
+Evocation
+Cler, Dru, Sor, Wiz
+Telepathy
+8
+Unlimited
+Evocation
+Wiz
+Telepathy
+8
+Unlimited
+Divination
+Wiz
+Tsunami
+8
+Sight
+Conjuration
+Dru
+Tsunami
+8
+1 mile
+Conjuration
+Dru
+Astral Projection
+9
+10 ft
+Necromancy
+Cler, War, Wiz
+Astral Projection
+9
+10 ft
+Necromancy
+Cler, War, Wiz
+Blade of Disaster
+9
+60 ft
+Conjuration
+Sor, War, Wiz
+Foresight
+9
+Touch
+Divination
+Bar, Dru, War, Wiz
+Foresight
+9
+Touch
+Divination
+Bar, Dru, War, Wiz
+Gate
+9
+60 ft
+Conjuration
+Cler, Sor, Wiz
+Gate
+9
+60 ft
+Conjuration
+Cler, Sor, War, Wiz
+Imprisonment
+9
+30 ft
+Abjuration
+War, Wiz
+Imprisonment
+9
+30 ft
+Abjuration
+War, Wiz
+Invulnerability
+9
+Self
+Abjuration
+Wiz
+Mass Heal
+9
+60 ft
+Evocation
+Cler
+Mass Heal
+9
+60 ft
+Abjuration
+Cler
+Mass Polymorph
+9
+120 ft
+Transmutation
+Bar, Sor, Wiz
+Meteor Swarm
+9
+1 mile (*)
+Evocation
+Sor, Wiz
+Meteor Swarm
+9
+1 mile (40 ft *)
+Evocation
+Sor, Wiz
+Power Word Heal
+9
+Touch
+Evocation
+Bar
+Power Word Heal
+9
+60 ft
+Enchantment
+Bar, Cler
+Power Word Kill
+9
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Power Word Kill
+9
+60 ft
+Enchantment
+Bar, Sor, War, Wiz
+Prismatic Wall
+9
+60 ft
+Abjuration
+Wiz
+Prismatic Wall
+9
+60 ft
+Abjuration
+Wiz
+Psychic Scream
+9
+90 ft
+Enchantment
+Bar, Sor, War, Wiz
+Ravenous Void
+9
+1000 ft
+Evocation
+Wiz
+Shapechange
+9
+Self
+Transmutation
+Dru, Wiz
+Shapechange
+9
+Self
+Transmutation
+Dru, Wiz
+Storm of Vengeance
+9
+Sight
+Conjuration
+Dru
+Storm of Vengeance
+9
+1 mile
+Conjuration
+Dru
+Time Ravage
+9
+90 ft
+Necromancy
+Wiz
+Time Stop
+9
+Self
+Transmutation
+Sor, Wiz
+Time Stop
+9
+Self
+Transmutation
+Sor, Wiz
+True Polymorph
+9
+30 ft
+Transmutation
+Bar, War, Wiz
+True Polymorph
+9
+30 ft
+Transmutation
+Bar, War, Wiz
+True Resurrection
+9
+Touch
+Necromancy
+Cler, Dru
+True Resurrection
+9
+Touch
+Necromancy
+Cler, Dru
+Weird
+9
+120 ft (30 ft )
+Illusion
+Wiz
+Weird
+9
+120 ft (30 ft )
+Illusion
+War, Wiz
+Wish
+9
+Self
+Conjuration
+Sor, Wiz
+Wish
+9
+Self
+Conjuration
+Sor, Wiz

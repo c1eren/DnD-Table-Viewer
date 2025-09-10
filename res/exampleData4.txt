@@ -1,0 +1,392 @@
+DM Tools: Feats for 5e
+Feat
+Prerequisite
+Ability
+Quick Details
+Source
+;;
+Aberrant Dragonmark
+Special
+Con +1
+Sorcerer spells: cantrip and 1st level spell;
+ERLW
+Actor
+—
+Cha +1
+Adv Cha (Deception), adv Cha (Performance), mimic sound/speech
+PHB
+Alert
+—
+—
++5 initiative, can't be surprised
+PHB
+Artificer Initiate
+—
+—
+Learn basic spells from the Artificer class
+TCE
+Athlete
+—
+Str or Dex +1
+Prone-stand 5', climbing+, 5' long jump
+PHB
+Bountiful Luck
+Halfling
+—
+Ally d20 rerolls on a 1 (once per turn)
+XGE
+Charger
+—
+—
+Dash with melee as bonus action, +5 to dmg or push target 10 ft.
+PHB
+Chef
+—
+Con or Wis +1
+Cooking bonuses
+TCE
+Crossbow Expert
+—
+—
+Bonus action to attack with crossbow, ignore loading quality, no disadv within 5ft
+PHB
+Crusher
+—
+Str or Con +1
+Move creature when you attack.
+TCE
+Defensive Duelist
+Dex 13+
+—
+AC bonus when react with a finesse weapon
+PHB
+Dragon Fear
+Dragonborn
+Str, Con or Cha +1
+Fear effect
+XGE
+Dragon Hide
+Dragonborn
+Str, Con or Cha +1
+Natural armor AC; claw weapon
+XGE
+Drow High Magic
+Elf (drow)
+—
+Spells: detect magic, levitate, dispel magic
+XGE
+Dual Wielder
+—
+—
++1 AC when duel wield, wield & draw two non-light weapons
+PHB
+Dungeon Delver
+—
+—
+Adv detect secret doors, adv avoid/resist traps, no fast pace Perception penalty
+PHB
+Durable
+—
+Con +1
+When use HD to regain HP, min roll equals 2x Con mod
+PHB
+Dwarven Fortitude
+Dwarf
+Con +1
+Use dodge action and can use one HD + Con mod to heal
+XGE
+Eldritch Adept
+—
+—
+Learn an eldritch invocation from the Warlock class
+TCE
+Elemental Adept
+Spellcasting
+—
+Spells cast ignore one type of elemental resistance
+PHB
+Elven Accuracy
+Elf or Half-Elf
+Dex, Int, Wis or Cha +1
+Can reroll attack roll when have adv
+XGE
+Fade Away
+Gnome
+Dex or Int +1
+After take dmg, become invisible
+XGE
+Fey Teleportation
+Elf (High)
+Int or Cha +1
+Spell: Misty Step, Language: Sylvan
+XGE
+Fey Touched
+—
+Int, Wis or Cha +1
+Misty step and another 1st lev spell
+TCE
+Fighting Initiate
+Proficiency with a martial weapon
+—
+You learn a Fighting Style.
+TCE
+Flames of Phlegethos
+Tiefling
+Int or Cha +1
+When fire spell cast: reroll a 1 dmg, wreathed in fire
+XGE
+Grappler
+Str 13+
+—
+adv on atk vs grappled creature, pin grappled creature
+PHB
+Great Weapon Master
+—
+—
+When creature killed, bonus action to atk melee; +10 to dmg if -5 to atk roll
+PHB
+Gunner
+—
+Dex +1
+prof with firearms, ignore loading prop, no ranged disadv within 5'
+TCE
+Healer
+—
+—
+Use healing kit: dying creature gets 1 HP, or restore 1d6+4 hp + max # of HD
+PHB
+Heavily Armored
+Prof. Medium Armor
+Str +1
+Heavy armor proficiency
+PHB
+Heavy Armor Master
+Prof. Heavy Armor
+Str +1
+Dmg reduction from non-magical weapons
+PHB
+Infernal Constitution
+Tiefling
+Con +1
+Resist cold/poison, adv vs. poison
+XGE
+Inspiring Leader
+Cha 13+
+—
+Inspire for temporary hit points
+PHB
+Keen Mind
+—
+Int +1
+Knowledge: which way is north, time til sunrise/sunset, recall seen/heard
+PHB
+Lightly Armored
+Prof. Light Armor
+Str or Dex +1
+Light armor proficiency
+PHB
+Linguist
+—
+Int +1
+Learn 3 languages, create ciphers
+PHB
+Lucky
+—
+—
+Luck points to reroll d20
+PHB
+Mage Slayer
+—
+—
+Bonuses vs spellscasters
+PHB
+Magic Initiate
+—
+—
+Two cantrips, one 1st level spell
+PHB
+Martial Adept
+—
+—
+Choose two fighting maneuvers, and gain superiority die
+PHB
+Medium Armor Master
+Prof. Medium Armor
+—
+Medium armor: No disadv stealth checks, AC bonus
+PHB
+Metamagic Adept
+Spellcasting or Pact Magic feature
+—
+Learn 2 Sorcerer metamagic options, gain 2 sorcery points
+TCE
+Mobile
+—
+—
+Movement bonuses, no opp attacks when melee
+PHB
+Moderately Armored
+Prof. Light Armor
+Str or Dex +1
+Medium armor proficiency
+PHB
+Mounted Combatant
+—
+—
+Mounted bonuses
+PHB
+Observant
+—
+Int or Wis +1
++5 passive Wis (Perception) and Int (Investigation), read lips
+PHB
+Orcish Fury
+Half-Orc
+Str or Con +1
+Add weapon damage, reaction attack
+XGE
+Piercer
+—
+Str or Dex +1
+Reroll dmg dice when piercing atk; bonus dmg on critical with piercing.
+TCE
+Poisoner
+—
+—
+Learn to make and use poisons in combat
+TCE
+Polearm Master
+—
+—
+Glaive, halberd, quarterstaff, or spear bonuses
+PHB
+Prodigy
+Half-Elf, half-orc, or human
+—
+Skill, tool and language proficiencies; one expertise
+XGE
+Resilient
+—
+Any +1
+Proficiency in one ability
+PHB
+Revenant Blade
+Elf
+Str or Dex +1
+AC bonus; scimitar is finesse weapon
+ERLW
+Ritual Caster
+Int/Wis 13+
+—
+Can cast ritual spells from ritual book
+PHB
+Savage Attacker
+—
+—
+Reroll weapon damage
+PHB
+Second Chance
+Halfling
+Dex, Con or Cha +1
+Force creature to reroll attack roll
+XGE
+Sentinel
+—
+—
+Bonus opportunity attacks and reaction bonuses
+PHB
+Shadow Touched
+—
+Int, Wis or Cha +1
+learn invisibility and another 1st lev spell
+TCE
+Sharpshooter
+—
+—
+No long range disadv; ignore ½ & ¾ cover; +10 dmg if -5 atk roll
+PHB
+Shield Master
+—
+—
+Shield bonuses, shove with shield
+PHB
+Skill Expert
+—
+Any +1
+Skill proficiency; expertise in a skill
+TCE
+Skilled
+—
+—
+3 skills or tools proficiencies
+PHB
+Skulker
+Dex 13+
+—
+Hiding bonuses, Wis (Perception) bonus
+PHB
+Slasher
+—
+Str or Dex +1
+Wound and disable targets with bladed weapon.
+TCE
+Spell Sniper
+Spellcasting
+—
+One attack cantrip; spell range 2x; ranged ignores ½ & ¾ cover
+PHB
+Squat Nimbleness
+Dwarf or Small Race
+—
++5' movement; Acrobatics or Athletic prof, adv to escape grapple
+XGE
+Strixhaven Initiate
+—
+—
+Two cantrips, one 1st level spell
+STX
+Strixhaven Mascot
+4th Level, Strixhaven Initiate Feat
+—
+Special find familiar spell
+STX
+Svirfneblin Magic
+Gnome (deep)
+—
+Spell: nondetection, blindness/deafness, blur, and disguise self
+MTF
+Tavern Brawler
+—
+Str or Con +1
+Unarmed d4 dmg, prof improv. weapons, can grapple as bonus
+PHB
+Telekinetic
+—
+Int, Wis or Cha +1
+mage hand cantrip (with bonus features), shove creature telekinetically.
+TCE
+Telepathic
+—
+Int, Wis or Cha +1
+Speak telepathically (60'), detect thoughts spell
+TCE
+Tough
+—
+—
+Hit point bonuses
+PHB
+War Caster
+Spellcasting
+—
+Concentration bonuses, somatic casting with weapons, cast spell as reaction
+PHB
+Weapon Master
+—
+Str or Dex +1
+Four weapon proficiencies
+PHB
+Wood Elf Magic
+Elf (Wood)
+—
+Spells: one druid cantrip, longstrider, pass without trace
+XGE
