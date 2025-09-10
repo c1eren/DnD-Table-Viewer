@@ -13,19 +13,21 @@ namespace dotNet1
         static TableManager tableManager = new TableManager();
         public static void Init()
         {
-            string folderPath = @".\res";
-            if (Directory.Exists(folderPath))
+            string exeDir = AppDomain.CurrentDomain.BaseDirectory;
+            string resDir = Path.Combine(exeDir, "res");
+
+            if (Directory.Exists(resDir))
             {
-                string[] files = Directory.GetFiles(folderPath);
+                string[] files = Directory.GetFiles(resDir);
 
                 foreach (string file in files)
                 {
                     tableManager.AddTable(fileReader.MakeData(file));
-                    Console.WriteLine(file);
+                    //Console.WriteLine(file);
                 }
             }
             else
-                Console.WriteLine("FOLDER::DOES_NOT_EXIST: " + Path.GetFullPath(folderPath));
+                Console.WriteLine("FOLDER::DOES_NOT_EXIST: " + Path.GetFullPath(resDir));
         }
 
         public static void Start()
@@ -39,9 +41,9 @@ namespace dotNet1
                 for (int i = 0; i < tablesCount; i++)
                 {
                     if (pointer == i)
-                        Console.Write($"-> {tableManager.Tables[i].Name}\n");
+                        Console.Write($"->     {tableManager.Tables[i].Name}\n");
                     else
-                        Console.Write($"{tableManager.Tables[i].Name}\n");
+                        Console.Write($"    {tableManager.Tables[i].Name}\n");
                 }
                 Console.Write("\n...Or press Escape to end program");
 

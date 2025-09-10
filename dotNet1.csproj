@@ -53,25 +53,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="res\deities.txt">
+    <Content Include="res\Deities.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\exampleData2.txt">
+    <Content Include="res\HarvestingAndLootAartukWarrior.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\exampleData3.txt">
+    <Content Include="res\ArcanaMagicItems.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\exampleData4.txt">
+    <Content Include="res\DMToolsFeatsFor5e.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\exampleData5.txt">
+    <Content Include="res\Familiars.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\ironGolemLoot.txt">
+    <Content Include="res\HarvestingIronGolemLoot.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="res\spells.txt">
+    <Content Include="res\SpellsAndRituals.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
